@@ -7,9 +7,9 @@ from __future__ import unicode_literals
 
 import os
 
-AUTHOR = 'KMOL'
-SITENAME = '2015FALL KMOL 課程'
-SITEURL = ''
+AUTHOR = '40323107'
+SITENAME = '2015FALL CADP 課程'
+SITEURL = 'http://40323107.github.io/2015fallcadpa/'
 
 PATH = 'content'
 
@@ -25,16 +25,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
-         ('Python', 'http://python.org/'),)
+LINKS = (('2015 CADP 課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+         ('2015 FALL CADPA 作業主頁','http://2015fallhw.github.io/2015fallcadpa/'),('Github','https://github.com/2015fallhw/2015fallcadpa/wiki'),('40323107 作業主頁','http://2015fallhw.github.io/2015fallcadpa/user/40323107/'),('Vimeo','https://vimeo.com/user24079973/videos'),('Python', 'http://python.org/'),('My Github','https://github.com/40323107/2015fallcadpa/tree/gh-pages'),('My WordPress','http://wordpress-40323107.rhcloud.com/'),('My Vimeo','https://vimeo.com/home/myvideos'))
 
 # Social widget
-SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
-          ('github', 'http://github.com/ametaireau'),)
+SOCIAL = (('Twitter', 'http://twitter.com/ametaireau'),
+          ('Github', 'https://github.com/'),('OpenShift','https://openshift.redhat.com/app/login?then=%2Fapp%2Fconsole%2Fapplications'),('Bitbucket','https://bitbucket.org/'),('Vimeo','https://vimeo.com/home/myvideos'),('Copy','https://www.copy.com/page/home;section:landing'))
           
 DEFAULT_PAGINATION = 10
 
-SITEURL = 'http://coursemdetw.github.io/reveal'
+SITEURL = 'http://40323107.github.io/2015fallcadpa/'
 RELATIVE_URLS = True
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -45,7 +45,7 @@ DELETE_OUTPUT_DIRECTORY = True
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
-DISQUS_SITENAME = "2015fall"
+DISQUS_SITENAME = "2015fallcadp"
 #GOOGLE_ANALYTICS = ""
 
 # 必須絕對目錄或相對於設定檔案所在目錄
