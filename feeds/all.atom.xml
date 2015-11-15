@@ -1,5 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-19T21:41:00+08:00</updated><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2015FALL KMOL 課程</title><link href="http://coursemdetw.github.io/reveal/" rel="alternate"></link><link href="http://coursemdetw.github.io/reveal/feeds/all.atom.xml" rel="self"></link><id>http://coursemdetw.github.io/reveal/</id><updated>2015-09-24T13:30:00+08:00</updated><entry><title>2015 電腦輔助設計與實習 作業二</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w2.html" rel="alternate"></link><updated>2015-09-24T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:coursemdetw.github.io,2015-09-24:reveal/2015cp_hw_w2.html</id><summary type="html">&lt;p&gt;以下為作業二內容&lt;/p&gt;
+&lt;p&gt;(1)安裝 leo - editor 。
+(2)修改內部資料。( 如：launchLeo.py)
+(3)完成w1進度。&lt;/p&gt;
+&lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
+&lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;作業二投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w2&lt;/h1&gt;
+&lt;p&gt;(一) 課程內容：&lt;/p&gt;
+&lt;p&gt;1.使用 pip install 的指令安裝 leo。(※在 cmd 裡)&lt;/p&gt;
+&lt;p&gt;2.說明 git clone 與 download 的差異。&lt;/p&gt;
+&lt;p&gt;3.下載課程影片。(※搜尋：192.168.1.35:8000)
+→ 操作步驟： cmd→python -m http.server&lt;/p&gt;
+&lt;p&gt;4.修改 launchLeo.py。(※利用 Sci TE)&lt;/p&gt;
+&lt;p&gt;5.創建新倉儲。(※w1進度，完成者則免)&lt;/p&gt;
+&lt;p&gt;6.說明課程內容及綱要。(※針對〝 2015Fall CADPA 第2週 〞文章 )&lt;/p&gt;
+&lt;p&gt;(二) 任務內容與成果： (※作業)&lt;/p&gt;
+&lt;p&gt;1.內容：&lt;/p&gt;
+&lt;p&gt;(1)安裝 leo - editor 。&lt;/p&gt;
+&lt;p&gt;(2)修改內部資料。( 如：launchLeo.py)&lt;/p&gt;
+&lt;p&gt;(3)完成w1進度。&lt;/p&gt;
+&lt;p&gt;(4)下載課程影片。&lt;/p&gt;
+&lt;p&gt;2.成果：&lt;/p&gt;
+&lt;p&gt;網址： (※暫定)&lt;/p&gt;
+&lt;p&gt;(三) 心得與自評：&lt;/p&gt;
+&lt;p&gt;1.心得：    &lt;/p&gt;
+&lt;p&gt;2.自評： 分 。&lt;/p&gt;
+&lt;p&gt;3.理由： &lt;/p&gt;
+&lt;p&gt;4.啟發： &lt;/p&gt;
+&lt;p&gt;(四)其他資料： &lt;/p&gt;
+&lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
+&lt;p&gt;2.本週課程內容網址： http://wordpress-2015course.rhcloud.com/?p=3641&lt;/p&gt;
+&lt;p&gt;3.課程教學影片網址：https://vimeo.com/user24079973/videos&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 計算機程式 Jupyter</title><link href="http://coursemdetw.github.io/reveal/2015cp_note1.html" rel="alternate"></link><updated>2015-09-19T21:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_note1.html</id><summary type="html">&lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
 &lt;div class="cell border-box-sizing code_cell rendered"&gt;
 &lt;div class="input"&gt;
@@ -1281,12 +1314,15 @@ sssssssss
 &lt;/div&gt;
 &lt;/div&gt;
 
-&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>2015 計算機程式 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-19T11:41:00+08:00</updated><author><name>coursemdetw</name></author><id>tag:coursemdetw.github.io,2015-09-19:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;/div&gt;&lt;/p&gt;</summary><category term="Jupyter"></category><category term="IPython"></category></entry><entry><title>2015 電腦輔助設計與實習 作業一</title><link href="http://coursemdetw.github.io/reveal/2015cp_hw_w1.html" rel="alternate"></link><updated>2015-09-17T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:coursemdetw.github.io,2015-09-17:reveal/2015cp_hw_w1.html</id><summary type="html">&lt;p&gt;以下為作業一內容&lt;/p&gt;
+&lt;p&gt;(1)建立個人 Github 課程倉儲 。(※名稱為 2015cadp)
+(2)使用 Git 在 Github 建立分支。
+(3)使用 SciTE 新增網頁，並利用 git 推送至 Github。&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
-&lt;iframe src="presentation/simplest.html" width="500" height="300"&gt;&lt;/iframe&gt;
+&lt;iframe src="simplest1.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="presentation/simplest.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;使用 H1 標題&lt;/h1&gt;
+&lt;p&gt;&lt;a href="simplest1.html" target="_blank"&gt;作業一投影片&lt;/a&gt;&lt;/p&gt;
+&lt;h1&gt;w1&lt;/h1&gt;
 &lt;p&gt;文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料&lt;/p&gt;
 &lt;p&gt;使用. &lt;em&gt;斜體文字&lt;/em&gt;, &lt;strong&gt;黑體文字&lt;/strong&gt;, 以及 &lt;code&gt;單線文字&lt;/code&gt;. 表列資料可以寫為:&lt;/p&gt;
 &lt;ul&gt;
