@@ -1866,7 +1866,8 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
 &lt;/section&gt;
 	
 </t>
@@ -1878,21 +1879,26 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)建立個人 Github 課程倉儲 。(※名稱為 2015cadp)&lt;/p&gt;
-        &lt;p&gt;(2)使用 Git 在 Github 建立分支。&lt;/p&gt;
-        &lt;p&gt;(3)使用 SciTE 新增網頁，並利用 git 推送至 Github。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)建立個人 Github 課程倉儲 。(※名稱為 2015cadp)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)使用 Git 在 Github 建立分支。                                &lt;/p&gt;
+        &lt;p align="left"&gt;(3)使用 SciTE 新增網頁，並利用 git 推送至 Github。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3637"&gt;w1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3637"&gt;w1&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/140277094"&gt;Vimeo - W1 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/140277188"&gt;Vimeo - W1 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/140281702"&gt;Vimeo - W1 - 3&lt;/a&gt;&lt;/p&gt;
         &lt;/section&gt;
-&lt;/section&gt;			
-				
+&lt;/section&gt;
+
+
 </t>
 <t tx="amd.20150917085040.1">&lt;!--
 這個檔案展示了 reveal.js 投影片資料的基本架構
@@ -2129,24 +2135,26 @@ g.es("admin pelican 執行完畢")</t>
 				
 </t>
 <t tx="leo.20151115223816.1">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第一週內容&lt;/h1&gt;
+    &lt;h1 align="left"&gt;第一週筆記&lt;/h1&gt;
     &lt;p align="left"&gt;1.下載“ Ana3_2015 ”檔案。&lt;/p&gt;
-    &lt;br&gt;
+    
     &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;br&gt;
-    &lt;p align="left"&gt;3.說明課程內容及綱要。&lt;/p&gt;
-    &lt;br&gt;
+   
+    &lt;p align="left"&gt;3.說明課程內容及任務。&lt;/p&gt;
+    
     &lt;p align="left"&gt;4.點選文章中的 reveal.js 倉儲： https://github.com/coursemdetw/reveal &lt;/p&gt;
-    &lt;br&gt;
+
     &lt;p align="left"&gt;5.嘗試在近端與遠端上輸出字串 。&lt;/p&gt;
-    &lt;br&gt;
+    
     &lt;p align="left"&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
-    &lt;br&gt;
+   
     &lt;p align="left"&gt;7.學習如何於近端 (cmd) 創建 " Github " 的分支(gh-pages)，再推送至遠端 (Github) 。&lt;/p&gt;
-    &lt;br&gt;
+    
     &lt;p align="left"&gt;8.輸入 "192.168.1.35:8000 "，下載資料。&lt;/p&gt;
-    &lt;br&gt;
+   
 &lt;/section&gt;
+
+
 </t>
 <t tx="leo.20151115224848.1">&lt;section&gt;
     &lt;section&gt;
