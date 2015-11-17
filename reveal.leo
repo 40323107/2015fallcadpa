@@ -300,7 +300,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232422.1"><vh>@clean simplest2.html</vh>
+<v t="leo.20151115232422.1" a="E"><vh>@clean simplest2.html</vh>
 <v t="leo.20151115232422.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232422.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232422.4" a="E"><vh>body 標註</vh>
@@ -558,19 +558,19 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
 </v>
-<v t="amd.20151021114454.1"><vh>@path user</vh>
+<v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1" a="E"><vh>@path 9999</vh>
-<v t="amd.20151021114639.1"><vh>@edit 9999_cp_w1_p.html</vh></v>
+<v t="amd.20151021114504.1"><vh>@path 40323107</vh>
+<v t="amd.20151021114639.1"><vh>@edit 40323107_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151021114727.1"><vh>@edit publishconf.py</vh></v>
 <v t="amd.20151021114712.1" a="E"><vh>@path content</vh>
-<v t="amd.20151021114905.1"><vh>@edit 9999_cp_w1.md</vh></v>
+<v t="amd.20151021114905.1"><vh>@edit 40323107_cp_w1.md</vh></v>
 </v>
 </v>
 </v>
@@ -1954,7 +1954,249 @@ jupyter notebook
 <t tx="amd.20151021114504.1"></t>
 <t tx="amd.20151021114516.1"></t>
 <t tx="amd.20151021114529.1"></t>
+<t tx="amd.20151021114639.1">@language html
+&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h1&gt;我的個人作業&lt;/h1&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;
+    &lt;p&gt;2015 / 11 / 18&lt;/p&gt;		
+&lt;/section&gt;
+	
+&lt;section id="hw-task-one"&gt;
+    &lt;h2&gt;作業任務&lt;/h2&gt;
+    &lt;p&gt;有關作業任務的說明&lt;/p&gt;
+    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;section&gt;
+    &lt;h3&gt;投影片&lt;/h3&gt;
+    &lt;p&gt;成績自評分數&lt;/p&gt;
+    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務&lt;/a&gt;
+&lt;/section&gt;
+				
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+&lt;/body&gt;
+
+</t>
 <t tx="amd.20151021114712.1"></t>
+<t tx="amd.20151021114727.1">@language python
+#!/usr/bin/env python
+# -*- coding: utf-8 -*- #
+from __future__ import unicode_literals
+
+# This file is only used if you use `make publish` or
+# explicitly specify it as your config file.
+
+import os
+
+AUTHOR = '40323107'
+SITENAME = '2015 FALL CADPA  課程'
+SITEURL = ''
+
+PATH = 'content'
+
+TIMEZONE = 'Asia/Taipei'
+
+DEFAULT_LANG = 'en'
+
+# Feed generation is usually not desired when developing
+FEED_ALL_ATOM = None
+CATEGORY_FEED_ATOM = None
+TRANSLATION_FEED_ATOM = None
+AUTHOR_FEED_ATOM = None
+AUTHOR_FEED_RSS = None
+
+# Blogroll
+LINKS = (('2015課程網頁', 'http://wordpress-2015course.rhcloud.com/'),
+         ('Python', 'http://python.org/'),)
+
+# Social widget
+SOCIAL = (('twitter', 'http://twitter.com/ametaireau'),
+          ('github', 'http://github.com/ametaireau'),)
+          
+DEFAULT_PAGINATION = 10
+
+SITEURL = 'http://coursemdetw.github.io/reveal'
+RELATIVE_URLS = True
+
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/%s.atom.xml'
+
+DELETE_OUTPUT_DIRECTORY = True
+
+# Following items are often useful when publishing
+
+#DISQUS_SITENAME = ""
+DISQUS_SITENAME = "2015fall"
+#GOOGLE_ANALYTICS = ""
+
+# 必須絕對目錄或相對於設定檔案所在目錄
+PLUGIN_PATHS = ['./../../../plugin']
+PLUGINS = ['liquid_tags.notebook']
+# 目錄設定相對於 reveal 下的 content 目錄
+NOTEBOOK_DIR = 'notebook'
+
+
+</t>
+<t tx="amd.20151021114905.1">@language md
+Title: 2015 電腦輔助設計與實習  作業
+Date: 2015-11-18 12:00
+Category: Python
+Tags: pelican, publishing
+Slug: 2015cp_hw_w1 - 40323107
+Authors: 40323107
+Summary: 作業
+
+以下為作業內容
+
+利用 iframe 嵌入投影片:
+
+&lt;iframe src="40323107_cp_w1_p.html" width="500" height="300"&gt;&lt;/iframe&gt;
+
+[作業投影片](40323107_cp_w1_p.html){:target="_blank"}
+
+Homework
+============
+
+文字段落間若要跳行, 必須插入空白行, 否則將會被 Markdown 視為連續的資料
+
+使用. *斜體文字*, **黑體文字**, 以及 `單線文字`. 表列資料可以寫為:
+
+  * 第1項說明
+  * 第2項說明
+  * 第3項說明
+
+特別注意 --- 不包括星號 --- 表列文字從第四欄位開始.
+
+&gt; 引用的內容寫在這裡
+&gt; 主要是以大於的符號開頭.
+&gt;
+&gt; 其中也可以利用空白行隔開,
+&gt; 整區都是引用內容的範圍.
+
+em-dash 符號是3個 dashes. 利用兩個 dashes 來連接開始與結束 (ex., "這個禮拜要閱讀章節 12--14"). 3個逗點 ... 則會被轉為 ellipsis.
+pelican 可以支援 unicode. ☺
+
+H2 標題
+------------
+
+有數字的表列資料:
+
+ 1. 第1項
+ 2. 第2項
+ 3. 第3項
+
+跟前面一樣, 文字從第四個欄位開始.
+
+程式碼的表達:
+
+    # for 重複迴圈 ...
+    for i in 1 .. 10 { 呼叫特定函式(i) }
+
+這裡也是要空4個 space 鍵. 
+
+除了每一行空4個空白, 也可以使用 delimited 來界定程式碼範圍, 就像這樣:
+
+~~~
+define foobar() {
+    print("歡迎進入程式的世界!")
+}
+~~~
+
+(這樣的表達比較容易用來複製程式碼內容).
+
+python 的程式碼, 可以寫成下列格式
+
+~~~python
+import time
+# 以下會從 0 數到 9
+for i in range(10):
+    # 稍微暫停一下
+    time.sleep(0.5)
+    print(i)
+~~~
+
+以下為另外一種嵌入程式碼的方法:
+
+    #!python
+    import time
+    # 以下會從 0 數到 9
+    for i in range(10):
+        # 稍微暫停一下
+        time.sleep(0.5)
+        print(i)
+
+### H3 標題 ###
+
+以下則為內嵌式的表列法t:
+
+ 1. 首先, 將完成下列元件的設計:
+
+      * 轉向機構
+      * 煞車系統
+      * 踩踏機構
+
+ 2. 接著連繫工業設計部門.
+
+ 3. 確定上述元件的各項設計與用料都符合原始設計規格的要求
+    查驗表:
+
+        各元件材質
+        車蓋顏色
+        機構調校流程
+        需要熱處理的元件列表
+
+    完成上述查驗後, 請通知品保部門, 以便接續處理.
+
+特別注意各階資料都以內縮4個空白鍵來加以區隔, 包含最後一行.
+
+Markdown 的超文件連結寫法 [連到 Google](http://www.google.com){:target="_blank"}, 也可以連到同目錄下的檔案 [cadpbw1.html](cadpbw1.html){:target="_blank"}, 也能使用註腳 [^1].
+
+[^1]: 註腳會連結到這裡.
+
+放入圖檔, 可以直接利用 html 的 img 標註:
+
+&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;
+
+Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):
+
+&lt;iframe src="https://player.vimeo.com/video/137724068" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href="https://vimeo.com/137724068"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+</t>
 <t tx="amd.20151021120245.1">@language python
 import os
 os.system("pelican pelican/content -o ./ -s pelican/publishconf.py -t theme/pelican-octopress")
@@ -2064,9 +2306,8 @@ g.es("admin pelican 執行完畢")</t>
 
 </t>
 <t tx="leo.20151115135951.10">&lt;section&gt;
-    &lt;h1&gt;投影片&lt;/h1&gt;
-    &lt;p&gt;成績自評分數的量化依據?&lt;/p&gt;
-    &lt;p&gt;可以連結到內部投影片&lt;a href="#/hw-task-one"&gt;作業任務二&lt;/a&gt;
+    &lt;h4&gt;投影片&lt;/h4&gt;
+    &lt;p&gt;成績自評分數&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2127,15 +2368,14 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;資料統整&lt;/h1&gt;
+    &lt;h2&gt;資料統整&lt;/h2&gt;
     &lt;p&gt;w1 ~ w9&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115135951.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;作業任務&lt;/h1&gt;
-    &lt;p&gt;有關作業任務的說明&lt;/p&gt;
-    &lt;p&gt;請參考 &lt;a href="http://www.google.com"&gt;Google&lt;/a&gt;
+    &lt;h3&gt;作業任務&lt;/h3&gt;
+    &lt;p&gt;作業任務的統整&lt;/p&gt;
 &lt;/section&gt;
 				
 </t>
@@ -2243,6 +2483,8 @@ g.es("admin pelican 執行完畢")</t>
     &lt;section&gt;
         &lt;h2&gt;倉儲網址&lt;/h2&gt;
         &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 - Github&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
         &lt;h2&gt;網頁網址&lt;/h2&gt;
         &lt;p&gt;&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107 -  Pages&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
@@ -2913,24 +3155,28 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232457.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務六&lt;/h1&gt;
+        &lt;h2&gt;任務六&lt;/h2&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt;(1)閱讀 Creo Parametric 基本操作。&lt;/p&gt;
-        &lt;p align="left"&gt;(2)將自己加入全班協同裡。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)將自己加入全班協同倉儲中。&lt;/p&gt;
         &lt;p align="left"&gt;(3)於全班協同倉儲中新增自己的倉儲。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)產生全班協同倉儲的個人網頁。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考網址&lt;/h1&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3664"&gt;w6&lt;/a&gt;&lt;/p&gt;
+         &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4146"&gt;Creo Parametric&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt; &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;全班協同倉儲&lt;/a&gt;&lt;/p&gt;
+          &lt;p&gt; &lt;a href="http://2015fallhw.github.io/2015fallcadpa/"&gt;全班協同網頁&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考影片&lt;/h1&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143225578"&gt;Vimeo - W6 - 1&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
@@ -2945,38 +3191,41 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232457.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
         &lt;p&gt;1.網頁網址&lt;/p&gt;
         &lt;p&gt;2.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h2&gt;網頁網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;40323107 - class pages&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;創健全班協同倉儲的個人倉儲與網頁&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
 <t tx="leo.20151115232457.12">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;結論&lt;/h1&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
         &lt;p&gt;1.心得&lt;/p&gt;
         &lt;p&gt;2.自評&lt;/p&gt;
         &lt;p&gt;3.啟發&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;這週的任務是做全班協同呢！是困難還是簡單，嘗試過後就知道，感覺有點躍躍欲試呢！那我要認真做筆記才行，然後，根據筆記的操作流程，順利的推出去了，也確認網頁建構成功，當下有種難以言喻的雀躍感與成就感呢！成功的瞬間令人心情舒暢呀！,但心中卻有不好的預感，過沒多久，預感成真， leo 掛掉了，是該喜還是該悲呢！後來大家就一起討論，嘗試找出錯誤，因此，從中我吸收到新的知識與方法，感覺錯誤反而讓人學到更多知識，好複雜的情緒唷！另外，因為很快就完成自己的任務，所以嘗試著去幫助別人，從中獲得諸多感受，但可以確認的是幫助別人對自己是有好處的，可以幫助自己快速的理解並加深印象、熟悉流程...等，總之，這一週的表現還不錯。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80 分&lt;/p&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;88 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
-        &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;成功為失敗的開端&lt;/p&gt;         
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;沒問題就是有問題&lt;/p&gt; 
+        &lt;p&gt;成功為失敗的開端&lt;/p&gt; 
+        &lt;p&gt;凡事都要小心謹慎&lt;/p&gt;
+        &lt;p&gt;助人為快樂之本喔&lt;/p&gt;          
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3029,7 +3278,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;我的作業&lt;/h1&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
     &lt;p&gt;第六週&lt;/p&gt;
     &lt;p&gt;2015 / 10 / 22&lt;/p&gt;		
 &lt;/section&gt;
@@ -3039,17 +3288,20 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;p&gt;40323107&lt;/p&gt;
     &lt;p&gt;廖佑珊&lt;/p&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232457.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1 align="left"&gt;第六週筆記&lt;/h1&gt;
+    &lt;h2 align="left"&gt;第六週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
     &lt;p align="left"&gt;2.說明 Creo Parametric 基本操作。&lt;/p&gt;
     &lt;p align="left"&gt;3.說明如何全班協同。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明如何於全班協同倉儲新增自己的倉儲。&lt;/p&gt;
+    &lt;p align="left"&gt;5.製作全班協同的個人網頁&lt;/p&gt;
+    &lt;p align="left"&gt;6.下載  fix.zip 。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -3064,24 +3316,27 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232505.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務七&lt;/h1&gt;
+        &lt;h2&gt;任務七&lt;/h2&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
-        &lt;p align="left"&gt;(1)修改衝突。&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)閱讀 Creo Parametric 基本操作 &lt;/p&gt;
+        &lt;p align="left"&gt;(2)下載 2015fallcadpa-gh-pages 倉儲&lt;/p&gt;
+        &lt;p align="left"&gt;(3)編輯全班協同的個人網頁內容&lt;/p&gt;
+        &lt;p align="left"&gt;(4)學習如何解決衝突&lt;/p&gt;
+        &lt;p align="left"&gt;(5)學習分析衝突架構&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考網址&lt;/h1&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3667"&gt;w7&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;全班協同倉儲&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考影片&lt;/h1&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143572506"&gt;Vimeo - W7 - 1&lt;/a&gt;&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143574887"&gt;Vimeo - W7 - 2&lt;/a&gt;&lt;/p&gt;
@@ -3095,40 +3350,45 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232505.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
         &lt;p&gt;1.倉儲網址&lt;/p&gt;
-        &lt;p&gt;2.自製影片&lt;/p&gt;
+        &lt;p&gt;2.網頁網址&lt;/p&gt;
+        &lt;p&gt;3.自製影片&lt;/p&gt;
+    &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h2&gt;倉儲網址&lt;/h2&gt;
+         &lt;p&gt; &lt;a href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;全班協同倉儲&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h2&gt;網頁網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;40323107 - class pages&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.新增資料&lt;/p&gt;
+        &lt;p&gt;2.修改衝突&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
 <t tx="leo.20151115232505.12">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;結論&lt;/h1&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
         &lt;p&gt;1.心得&lt;/p&gt;
         &lt;p&gt;2.自評&lt;/p&gt;
         &lt;p&gt;3.啟發&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;,這週的任務是接續上週的問題，因此，課程內容差不多，只是多一點點問題罷了，所以，這週主要是教導我們如何解決衝突與認識衝突架構，就是因為這個步驟很容易被忽略掉，而導致連鎖效應，因此，經過上週的教訓與經歷，告訴我別輕視這個問題，很重要、很關鍵呀！所以我得學起來、記下來，避免再犯相同的錯.才行，其餘部份問題比較少、不嚴重，還能夠自我處理，總之，就是不斷的學習、不斷的吸收、彙整資料...等。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80 分&lt;/p&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
-        &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;第六感很準&lt;/p&gt;         
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;相信第六感，很準的&lt;/p&gt; 
+        &lt;p&gt;知錯能改，善莫大焉&lt;/p&gt;        
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3181,7 +3441,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;我的作業&lt;/h1&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
     &lt;p&gt;第七週&lt;/p&gt;
     &lt;p&gt;2015 / 10 / 29&lt;/p&gt;		
 &lt;/section&gt;
@@ -3191,17 +3451,18 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;p&gt;40323107&lt;/p&gt;
     &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232505.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1 align="left"&gt;第七週筆記&lt;/h1&gt;
+    &lt;h2 align="left"&gt;第七週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.說明如何解決衝突與衝突架構。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明如何解決衝突與衝突的架構。&lt;/p&gt;
     &lt;p align="left"&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明如何同時運作個人與全班的倉儲修改。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -3216,23 +3477,23 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232511.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務八&lt;/h1&gt;
+        &lt;h2&gt;任務八&lt;/h2&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt; (1)資料統整。(第 1~8 週)&lt;/p&gt;
         &lt;p align="left"&gt;(2)全班協同網頁與個人網頁的連結。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考網址&lt;/h1&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3670"&gt;w8&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考影片&lt;/h1&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W8&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
@@ -3244,40 +3505,49 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232511.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務成果&lt;/h1&gt;
-        &lt;p&gt;1.倉儲網址&lt;/p&gt;
-        &lt;p&gt;2.自製影片&lt;/p&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.網頁與倉儲網址&lt;/p&gt;
+        &lt;p&gt;2.自製教學影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h2&gt;網頁與倉儲網址&lt;/h2&gt;
+         &lt;p&gt;&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107 -  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 - Github&lt;/a&gt;&lt;/p&gt;
+         &lt;p&gt;&lt;a href="href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;40323107 - Class Pages&lt;/a&gt;&lt;/p&gt;
+         &lt;p&gt;&lt;a href="href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;Class Github&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;全班與個人網頁連結.&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
-</t>
+
+
+
+
+
+        
+      
+       </t>
 <t tx="leo.20151115232511.12">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;結論&lt;/h1&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
         &lt;p&gt;1.心得&lt;/p&gt;
         &lt;p&gt;2.自評&lt;/p&gt;
         &lt;p&gt;3.啟發&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
         &lt;p&gt;這週任務並不難，只是系統容易出錯，導致進度有些阻礙而已，大致上沒問題，還能夠教導別人呢！但還是有新的知識要學，雖然一開始不太懂，但詢問過同學與教授加上自我嘗試後，我理解了，總之，雖然思緒待整理，但感覺很有趣、很有成就感。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80 分&lt;/p&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
-        &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;凡事都要小心謹慎&lt;/p&gt;         
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;凡事都要小心謹慎&lt;/p&gt; 
+        &lt;p&gt;從討論中獲得答案&lt;/p&gt;        
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3330,7 +3600,7 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;我的作業&lt;/h1&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
     &lt;p&gt;第八週&lt;/p&gt;
     &lt;p&gt;2015 / 11 / 05&lt;/p&gt;		
 &lt;/section&gt;
@@ -3340,20 +3610,22 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;p&gt;40323107&lt;/p&gt;
     &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232511.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1 align="left"&gt;第八週筆記&lt;/h1&gt;
-    &lt;p align="left"&gt;1.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
+    &lt;h2 align="left"&gt;第八週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
     &lt;p align="left"&gt;2.說明如何將全班協同與個人網誌做連結。&lt;/p&gt;
     &lt;p align="left"&gt;3.說明期中評分規則。&lt;/p&gt;
-    &lt;p align="left"&gt;4.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;4.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
     &lt;p align="left"&gt;5.說明 Creo Parametric 基本操作。&lt;/p&gt;
 &lt;/section&gt;
+
+
 
 
 
@@ -3373,24 +3645,25 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232520.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務一&lt;/h1&gt;
+        &lt;h1&gt;任務九&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt;(1) CADPA 登錄自評成績 。&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)CADPA 登錄網頁網址&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考網址&lt;/h1&gt;
+        &lt;h3&gt;參考網址&lt;/h3&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3673"&gt;w9&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="
+http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;參考影片&lt;/h1&gt;
+        &lt;h4&gt;參考影片&lt;/h4&gt;
         &lt;p&gt;請參考&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W9&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
@@ -3404,14 +3677,15 @@ g.es("admin pelican 執行完畢")</t>
         &lt;p&gt;2.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h2&gt;網頁與倉儲網址&lt;/h2&gt;
+         &lt;p&gt;&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107 -  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 - Github&lt;/a&gt;&lt;/p&gt;
+         &lt;p&gt;&lt;a href="href="http://2015fallhw.github.io/2015fallcadpa/user/40323107/"&gt;40323107 - Class Pages&lt;/a&gt;&lt;/p&gt;
+         &lt;p&gt;&lt;a href="href="https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages"&gt;Class Github&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;自製影片&lt;/h3&gt;
+        &lt;p&gt;請參考 W1 - W8 &lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -3423,16 +3697,18 @@ g.es("admin pelican 執行完畢")</t>
         &lt;p&gt;3.啟發&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;我好想打高分呀！但我沒做，不是不想做，而是電腦不給力呀~~~ &lt;/p&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;這週是第九週喔！主要任務為統整 W1 ~ W8 的作業內容，因此，我會將各週內容簡略敘述統整於這週網頁上，而這個投影片則是用來測試與區分文字大小的差異性喔！但我也會針對第九週內容稍做解釋，以方便之後的進度確認，總之，就是資料統整啦！&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;88 分&lt;/p&gt;
+        &lt;h3&gt;自評&lt;/h3&gt;
+        &lt;p&gt;90 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
-        &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;做人要誠實&lt;/p&gt;         
+        &lt;h4&gt;啟發&lt;/h4&gt;
+        &lt;p&gt;做人要誠實&lt;/p&gt;
+        &lt;p&gt;船到橋頭自然直&lt;/p&gt; 
+        &lt;p&gt;人生結果才是一切&lt;/p&gt;          
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3496,17 +3772,17 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h1&gt;四設計二甲&lt;/h1&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
     &lt;p&gt;40323107&lt;/p&gt;
     &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232520.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1 align="left"&gt;第九週內容&lt;/h1&gt;
+    &lt;h3 align="left"&gt;第九週筆記&lt;/h3&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.登錄自評分數&lt;/p&gt;
+    &lt;p align="left"&gt;3.登錄全班協同個人網頁與個人網頁&lt;/p&gt;
  &lt;/section&gt;
 				
 </t>
