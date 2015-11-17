@@ -282,9 +282,9 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
+<v t="amd.20150915211341.1" a="E"><vh>@clean simplest1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
-<v t="amd.20150915211351.1"><vh>html 標註</vh>
+<v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
 <v t="amd.20150915211351.5" a="E"><vh>div class="reveal"</vh>
 <v t="amd.20150915211351.6" a="E"><vh>div class="slides"</vh>
@@ -2130,16 +2130,23 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115223816.1">&lt;section id="hw-task-one"&gt;
     &lt;h1&gt;第一週內容&lt;/h1&gt;
-    &lt;p&gt;1.下載“ Ana3_2015 ”檔案。&lt;/p&gt;
-    &lt;p&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p&gt;3.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;4.點選文章中的 reveal.js 倉儲： https://github.com/coursemdetw/reveal &lt;/p&gt;
-    &lt;p&gt;5.嘗試在近端與遠端上輸出字串 。&lt;/p&gt;
-    &lt;p&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
-    &lt;p&gt;7.學習如何於近端 (cmd) 創建 " Github " 的分支(gh-pages)，再推送至遠端 (Github) 。&lt;/p&gt;
-    &lt;p&gt;8.輸入 "192.168.1.35:8000 "，下載資料。&lt;/p&gt;
+    &lt;p align="left"&gt;1.下載“ Ana3_2015 ”檔案。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;3.說明課程內容及綱要。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;4.點選文章中的 reveal.js 倉儲： https://github.com/coursemdetw/reveal &lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;5.嘗試在近端與遠端上輸出字串 。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;7.學習如何於近端 (cmd) 創建 " Github " 的分支(gh-pages)，再推送至遠端 (Github) 。&lt;/p&gt;
+    &lt;br&gt;
+    &lt;p align="left"&gt;8.輸入 "192.168.1.35:8000 "，下載資料。&lt;/p&gt;
+    &lt;br&gt;
 &lt;/section&gt;
-				
 </t>
 <t tx="leo.20151115224848.1">&lt;section&gt;
     &lt;section&gt;

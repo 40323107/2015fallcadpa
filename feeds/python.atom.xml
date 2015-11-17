@@ -239,18 +239,18 @@
 &lt;p&gt;&lt;a href="simplest1.html" target="_blank"&gt;第一週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w1&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.下載“ Ana3_2015 ”檔案，並簡略說明。 
-  *(路徑： 學校電腦 → C槽 → Ana3_2015檔 )&lt;/p&gt;
+&lt;p&gt;1.下載“ Ana3_2015 ”檔案，並簡略說明。
+&lt;em&gt;(路徑： 學校電腦 → C槽 → Ana3_2015檔 )&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;2.登入課程網址，並閱讀課程相關文章。
-  *(課程網址：http://wordpress-2015course.rhcloud.com/ )&lt;/p&gt;
+  &lt;em&gt;(課程網址：http://wordpress-2015course.rhcloud.com/ )&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;3.說明課程內容及任務。
-  &lt;em&gt;( 針對〝 2015Fall CADPA 第1週 〞文章。)
-  &lt;/em&gt;( 網址：http://wordpress-2015course.rhcloud.com/?p=3637 )&lt;/p&gt;
+  &lt;em&gt;( 針對〝 2015Fall CADPA 第1週 〞文章。)&lt;/em&gt;
+  &lt;em&gt;( 網址：http://wordpress-2015course.rhcloud.com/?p=3637 )&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;4.點選文章中的 reveal.js 倉儲。
-  &lt;em&gt;( 倉儲網址：https://github.com/coursemdetw/reveal)
-  &lt;/em&gt;( 對應的 github pages：demo，cadpaw1.html )&lt;/p&gt;
+  &lt;em&gt;( 倉儲網址：https://github.com/coursemdetw/reveal)&lt;/em&gt;
+  &lt;em&gt;( 對應的 github pages：demo，cadpaw1.html )&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;5.嘗試在近端與遠端上輸出字串 。
-  *( 例： print("hello")  )&lt;/p&gt;
+  &lt;em&gt;( 例： print("hello")  )&lt;/em&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;方法一：
     於近端桌面開啟 &amp;quot;start&amp;quot; ，跳出 jupyter 網頁，輸入密碼(2015cp)進行登入，操作 (輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello)。
      (※操作：jupyter → new → python 3 → print(&amp;quot;hello&amp;quot;) → cell → run → hello 。 )
@@ -267,9 +267,9 @@
 &lt;p&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
 &lt;p&gt;7.學習如何於近端 &lt;code&gt;cmd&lt;/code&gt; 創建 &lt;code&gt;Github&lt;/code&gt; 的分支 &lt;code&gt;gh-pages&lt;/code&gt;，再推送至遠端 &lt;code&gt;Github&lt;/code&gt; 。&lt;/p&gt;
 &lt;p&gt;8.於〝Google〞輸入 "192.168.1.35:8000 "，下載資料。
-  &lt;em&gt;( ※操作：cmd → python -m http.server)
-  &lt;/em&gt;( ※資料：課程教學影片。 )&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： (※作業)&lt;/h2&gt;
+  &lt;em&gt;( ※操作：cmd → python -m http.server)&lt;/em&gt;
+  &lt;em&gt;( ※資料：課程教學影片。 )&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;(※作業)&lt;/em&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;輸出字串。(※字串為 Hello ) 
 建立個人 Github 課程倉儲 。(※名稱為 2015cadp )
@@ -346,12 +346,10 @@
 &lt;p&gt;4.Sci TE 的內容： &lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;5.圖片連結測試：&lt;/p&gt;
 &lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
-&lt;p&gt;&lt;img src="images/spur.png" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="images/1.jpeg" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;6.影片連結測試：&lt;/p&gt;
 &lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
-&lt;iframe src="https://vimeo.com/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/140277094"&gt;Welcome Speech&lt;/a&gt; from &lt;a href="https://vimeo.com/user24079973"&gt;虎尾科大機械設計工程系 KMOL&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 相關資料</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_note1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T12:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_note1 -  40323107.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Jupyter
+&lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 相關資料</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_note1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T12:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_note1 -  40323107.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Jupyter
 &lt;/em&gt;導入 notebook 內容&lt;/p&gt;
 &lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
 &lt;p&gt;
