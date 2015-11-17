@@ -293,9 +293,11 @@
 
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;(1)Github個人倉儲網址：https://github.com/40323107/2015fallcadpa/tree/gh-pages
+
 (2)測試網頁網址：https://www.google.com.tw
 
 (3)自製教學影片：
+
     w1-1 → 如何輸出字串
     w1-2 → 如何創建倉儲
     w1-3 → 如何新建分支
@@ -359,11 +361,11 @@
 &lt;p&gt;2.本週課程內容網址： http://wordpress-2015course.rhcloud.com/?p=3637&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：https://vimeo.com/user24079973/videos&lt;/p&gt;
 &lt;p&gt;4.Sci TE 的內容： &lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;5.圖片連結測試：&lt;/p&gt;
-&lt;p&gt;放入圖檔, 可以直接利用 html 的 img 標註:&lt;/p&gt;
+&lt;p&gt;5.圖片連結測試：
+&lt;code&gt;操作方式：放入圖檔，可以直接利用 html 的 img 標註。&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/1.jpeg" width="500" alt="正齒輪繪圖"&gt;&lt;/img&gt;&lt;/p&gt;
-&lt;p&gt;6.影片連結測試：&lt;/p&gt;
-&lt;p&gt;Vimeo 影片嵌入(直接從 Vimeo 影片上的 Share 複製 html 碼):&lt;/p&gt;
+&lt;p&gt;6.影片連結測試：
+&lt;code&gt;操作方式：Vimeo 影片嵌入，直接從 Vimeo 影片上的 Share 複製 html 碼。&lt;/code&gt;&lt;/p&gt;
 &lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 相關資料</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_note1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T12:00:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_note1 -  40323107.html</id><summary type="html">&lt;p&gt;&lt;em&gt;Jupyter
 &lt;/em&gt;導入 notebook 內容&lt;/p&gt;
 &lt;p&gt;以下為 Jupyter notebook 檔案內容:&lt;/p&gt;
