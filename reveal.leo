@@ -10,16 +10,16 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="amd.20150913232631.1" a="E"><vh>@settings</vh>
+<v t="amd.20150913232631.1"><vh>@settings</vh>
 <v t="amd.20150913232631.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="amd.20150913232631.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="amd.20150919102739.1" a="E"><vh>專案架構</vh>
+<v t="amd.20150919102739.1"><vh>專案架構</vh>
 <v t="amd.20150919113520.1"><vh>@edit .gitignore</vh></v>
 <v t="amd.20151007224830.1"><vh>Jupyter 安裝與執行</vh></v>
 <v t="amd.20150919103357.1"><vh>pelican 設定</vh></v>
 </v>
-<v t="amd.20150919113957.1" a="E"><vh>以下為 pelican 文章</vh>
+<v t="amd.20150919113957.1"><vh>以下為 pelican 文章</vh>
 <v t="amd.20151021120245.1"><vh>@button admin pelican</vh></v>
 <v t="amd.20150919124128.1"><vh>@button user pelican</vh></v>
 <v t="amd.20150919114010.1" a="E"><vh>@path pelican</vh>
@@ -282,7 +282,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20150915211341.1" a="E"><vh>@clean simplest1.html</vh>
+<v t="amd.20150915211341.1"><vh>@clean simplest1.html</vh>
 <v t="amd.20150917085040.1"><vh>檔案說明</vh></v>
 <v t="amd.20150915211351.1" a="E"><vh>html 標註</vh>
 <v t="amd.20150915211351.4" a="E"><vh>body 標註</vh>
@@ -318,7 +318,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232433.1"><vh>@clean simplest3.html</vh>
+<v t="leo.20151115232433.1" a="E"><vh>@clean simplest3.html</vh>
 <v t="leo.20151115232433.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232433.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232433.4" a="E"><vh>body 標註</vh>
@@ -558,7 +558,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
@@ -1824,11 +1824,16 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
         &lt;p&gt;1.倉儲網址&lt;/p&gt;
-        &lt;p&gt;2.自製影片&lt;/p&gt;
+        &lt;p&gt;2.測試網頁&lt;/p&gt;
+        &lt;p&gt;3.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;倉儲網址&lt;/h1&gt;
         &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;測試網頁&lt;/h1&gt;
+        &lt;p&gt;&lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
@@ -1873,7 +1878,7 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
 </t>
 <t tx="amd.20150915211351.9">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務一&lt;/h1&gt;
+        &lt;h1&gt;任務一&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
@@ -2165,7 +2170,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;這週作業是懂非懂，雖然有上課筆記與教學影片提供參考，但實際操作還是有問題，例如：可創建倉儲，卻無法顯示網頁(指〝.html〞)，經過查證後，並非操作流程錯誤，而是倉儲認證未通過，結論，只要認證通過就能成功，經過這次的體驗，真的讓我印象深刻，也從中吸收到新的知識，更讓我領悟出一些道理呢！&lt;/p&gt;
+        &lt;p&gt;這週任務是懂非懂，雖然有上課筆記與教學影片提供參考，但實際操作還是有問題，例如：可創建倉儲，卻無法顯示網頁(指〝.html〞)，經過查證後，並非操作流程錯誤，而是倉儲認證未通過，結論，只要認證通過就能成功，經過這次的經歷，真的讓我印象深刻，也從中吸收到新的知識，更讓我領悟出一些道理呢！&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
@@ -2185,27 +2190,39 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232422.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務二&lt;/h1&gt;
+        &lt;h1&gt;任務二&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)安裝 leo - editor 。&lt;/p&gt;
-        &lt;p&gt;(2)修改內部資料。( 如：launchLeo.py)&lt;/p&gt;
-        &lt;p&gt;(3)完成w1進度。&lt;/p&gt;
-        &lt;p&gt;(4)下載課程影片。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt; (1)安裝 leo - editor 。&lt;/p&gt;
+        &lt;p align="left"&gt; (2)修改內部資料。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)完成w1進度。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)新增`個人`倉儲內容。&lt;/p&gt;
+        &lt;p align="left"&gt;(5)下載課程影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href=" http://wordpress-2015course.rhcloud.com/?p=3641"&gt;w2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href=" http://wordpress-2015course.rhcloud.com/?p=3641"&gt;w2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W2&lt;/a&gt;&lt;/p&gt;
-    &lt;/section&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/139886319"&gt;Vimeo - W2 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/139890840"&gt;Vimeo - W2 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/139892322"&gt;Vimeo - W2 - 3&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/139893872"&gt;Vimeo - W2 - 4&lt;/a&gt;&lt;/p&gt;
+        &lt;/section&gt;
 &lt;/section&gt;
+
+   
+  
+    
+
+
  
 
 
@@ -2220,11 +2237,14 @@ g.es("admin pelican 執行完畢")</t>
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
         &lt;p&gt;1.倉儲網址&lt;/p&gt;
-        &lt;p&gt;2.自製影片&lt;/p&gt;
+        &lt;p&gt;2.網頁網址&lt;/p&gt;
+        &lt;p&gt;3.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;倉儲網址&lt;/h1&gt;
         &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h1&gt;網頁網址&lt;/h1&gt;
+        &lt;p&gt;&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107 Pages&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
@@ -2243,15 +2263,15 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;整體而言，都能理解，只是還需要多研究與操作。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;85 分&lt;/p&gt;
+        &lt;p&gt;88 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;不懂就是要問&lt;/p&gt;         
+        &lt;p&gt;「知識」是別人所贈與的，「經驗」是自己所擁有的。&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -2315,19 +2335,32 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h2&gt;四設計二甲&lt;/h2&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;		
 &lt;/section&gt;
+
 	
 </t>
 <t tx="leo.20151115232422.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第二週內容&lt;/h1&gt;
-    &lt;p&gt;1.使用 pip install 的指令安裝 leo。&lt;/p&gt;
-    &lt;p&gt;2.說明 git clone 與 download 的差異。&lt;/p&gt;
-    &lt;p&gt;3.下載課程影片。&lt;/p&gt;
-    &lt;p&gt;4.修改 launchLeo.py。 &lt;/p&gt;
-    &lt;p&gt;5.創建新倉儲。&lt;/p&gt;
-    &lt;p&gt;6.說明課程內容及綱要。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第二週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明如何安裝 `leo`。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明 `git clone` 與 `download` 的差異。&lt;/p&gt;
+    &lt;p align="left"&gt;4.檢查 launchLeo.py。&lt;/p&gt;
+    &lt;p align="left"&gt;5.創建新倉儲。&lt;/p&gt;
+    &lt;p align="left"&gt;6.下載老師的`reveal.js` 倉儲。&lt;/p&gt;
+    &lt;p align="left"&gt;7.複製`reveal.js倉儲`的`內容`至`自己`的倉儲。&lt;/p&gt;
+    &lt;p align="left"&gt;8.下載課程影片。&lt;/p&gt;
 &lt;/section&gt;
+
+
+
+
+
+
+
+
+
 
 
 
@@ -2350,26 +2383,32 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232433.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務一&lt;/h1&gt;
+        &lt;h1&gt;任務三&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。&lt;/p&gt;
-        &lt;p&gt;(2)編輯個人投影片。&lt;/p&gt;
-        &lt;p&gt;(3)修改 notebook.py 。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)編輯個人投影片。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)修改 notebook.py 。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3650"&gt;w3&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3650"&gt;w3&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W3&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/141021392"&gt;Vimeo - W3 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/141024439"&gt;Vimeo - W3 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/141026116"&gt;Vimeo - W3 - 3&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
+
+
  
 
 
@@ -2382,19 +2421,24 @@ g.es("admin pelican 執行完畢")</t>
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
         &lt;p&gt;1.倉儲網址&lt;/p&gt;
-        &lt;p&gt;2.自製影片&lt;/p&gt;
+        &lt;p&gt;2.網頁網址&lt;/p&gt;
+        &lt;p&gt;3.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;倉儲網址&lt;/h1&gt;
         &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h1&gt;網頁網址&lt;/h1&gt;
+        &lt;p&gt;&lt;a href="http://40323107.github.io/2015fallcadpa/"&gt;40323107 Pages&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;		
+        &lt;p&gt;40323107 - w3&lt;/p&gt;
+        &lt;/section&gt;
+&lt;/section&gt;
+
+	
 </t>
 <t tx="leo.20151115232433.12">&lt;section&gt;
     &lt;section&gt;
@@ -2405,15 +2449,15 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;這週學到新的軟體 solvespace 呢！整體架構有點像 Auto CAD，但操作方式不太一樣，還有，是英文版的，難度提高，所以還需要研究與理解，另外，還有編輯自己的投影片，就是改變格式啦！感覺滿有趣的，總之，獲益良多。 &lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;80 分&lt;/p&gt;
+        &lt;p&gt;88 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;有點像 Auto CAD 呢！&lt;/p&gt;         
+        &lt;p&gt;凡事都要積極的嘗試、學以致用&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -2477,19 +2521,21 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;		
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232433.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第三週內容&lt;/h1&gt;
-    &lt;p&gt;1.說明 科學與工程的差異。&lt;/p&gt;
-    &lt;p&gt;2.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;3.,說明如何編輯個人投影片。&lt;/p&gt;
-    &lt;p&gt;4.說明 notebook.py 。&lt;/p&gt;
-    &lt;p&gt;5.,說明 solvespace 。&lt;/p&gt;
-    &lt;p&gt;6.說明如何利用 git 指令刪除檔案。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第三週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明 科學與工程的差異。&lt;/p&gt;
+    &lt;p align="left"&gt;3.,說明如何編輯個人投影片。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明 notebook.py 。&lt;/p&gt;
+    &lt;p align="left"&gt;5.,說明 solvespace 。&lt;/p&gt;
+    &lt;p align="left"&gt;6.說明如何利用 git 指令刪除檔案。&lt;/p&gt;
 &lt;/section&gt;
+
 
 
 
@@ -2513,26 +2559,33 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232441.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務四&lt;/h1&gt;
+        &lt;h1&gt;任務四&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt; (1)下載 solvespace 2.1版。&lt;/p&gt;
-        &lt;p&gt;(2)利用 solvespace 繪圖。&lt;/p&gt;
-        &lt;p&gt;(3)&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)下載 solvespace 2.1版。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)利用 solvespace 繪圖。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3657"&gt;w4&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3657"&gt;w4&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W4&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/141762531"&gt;Vimeo - W4 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/141370058"&gt;Vimeo - W4 - 2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
+
+
+
+
+
  
 
 
@@ -2542,20 +2595,20 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151115232441.11">&lt;section&gt;
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
-        &lt;p&gt;1.倉儲網址&lt;/p&gt;
+        &lt;p&gt;1.零件圖片&lt;/p&gt;
         &lt;p&gt;2.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h1&gt;零件圖片&lt;/h1&gt;
+        &lt;p&gt;40323107 images&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;p&gt;solvespace film&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;		
+&lt;/section&gt;
+
+images/01.PNG		
 </t>
 <t tx="leo.20151115232441.12">&lt;section&gt;
     &lt;section&gt;
@@ -2566,15 +2619,15 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;心得&lt;/h1&gt;
-        &lt;p&gt;&lt;/p&gt;
+        &lt;p&gt;這週任務為繪圖零件&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;75 分&lt;/p&gt;
+        &lt;p&gt;85分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;英文待加強&lt;/p&gt;         
+        &lt;p&gt;學習要持之以恆&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -2638,17 +2691,18 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232441.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第四週內容&lt;/h1&gt;
-    &lt;p&gt;1.說明變頻的原理。&lt;/p&gt;
-    &lt;p&gt;2說明 Ipthon 與 Jupyter 的差異。&lt;/p&gt;
-    &lt;p&gt;3.說明課程內容及綱要。。&lt;/p&gt;
-    &lt;p&gt;4.說明如何下載 solvespace 2.1版 ，並繪圖。&lt;/p&gt;
-    &lt;p&gt;5..提供學習語言的優先順序。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第四週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明變頻的原理。&lt;/p&gt;
+    &lt;p align="left"&gt;2說明 Ipthon 與 Jupyter 的差異。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明如何下載 solvespace 2.1版 ，並繪圖。&lt;/p&gt;
+    &lt;p align="left"&gt;5..提供學習語言的優先順序。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -2669,25 +2723,32 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232449.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務五&lt;/h1&gt;
+        &lt;h1&gt;任務五&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)下載 reveal2-gh-pages 與 fix。&lt;/p&gt;
-        &lt;p&gt;(2)投影片版本修改。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)下載 reveal2-gh-pages 與 fix。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)投影片版本修改。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3660"&gt;w5&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3660"&gt;w5&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W5&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/142093273"&gt;Vimeo - W5 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/142093479"&gt;Vimeo - W5 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/142098889"&gt;Vimeo - W5 - 3&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;	
+&lt;/section&gt;
+
+
+
 
 
 		
@@ -2696,12 +2757,12 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151115232449.11">&lt;section&gt;
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
-        &lt;p&gt;1.倉儲網址&lt;/p&gt;
+        &lt;p&gt;1.網頁網址&lt;/p&gt;
         &lt;p&gt;2.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;倉儲網址&lt;/h1&gt;
-        &lt;p&gt;&lt;a href="https://github.com/40323107/2015fallcadpa/tree/gh-pages"&gt;40323107 Github&lt;/a&gt;&lt;/p&gt;
+        &lt;h1&gt;網頁網址&lt;/h1&gt;
+        &lt;p&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
@@ -2724,7 +2785,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;70分&lt;/p&gt;
+        &lt;p&gt;80 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
@@ -2792,18 +2853,19 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232449.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第五週內容&lt;/h1&gt;
-    &lt;p&gt;1.影片觀賞。&lt;/p&gt;
-    &lt;p&gt;2.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;3.說明〝如何從作業自評中取分〞這篇文章。&lt;/p&gt;
-    &lt;p&gt;4.說明 Creo Parametric 基本操作。&lt;/p&gt;
-    &lt;p&gt;5.說明如何將投影片改版。&lt;/p&gt;
-    &lt;p&gt;6.說明如何利用 git rm 刪除網頁。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第五週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.影片觀賞。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明〝如何從作業自評中取分〞這篇文章。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明 Creo Parametric 基本操作。&lt;/p&gt;
+    &lt;p align="left"&gt;5.說明如何將投影片改版。&lt;/p&gt;
+    &lt;p align="left"&gt;6.說明如何利用 git rm 刪除網頁。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -2820,26 +2882,29 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232457.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務六&lt;/h1&gt;
+        &lt;h1&gt;任務六&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)閱讀 Creo Parametric 基本操作。&lt;/p&gt;
-        &lt;p&gt;(2)將自己加入全班協同裡。&lt;/p&gt;
-        &lt;p&gt;(3)於全班協同倉儲中新增自己的倉儲。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)閱讀 Creo Parametric 基本操作。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)將自己加入全班協同裡。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)於全班協同倉儲中新增自己的倉儲。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3664"&gt;w6&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3664"&gt;w6&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W6&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143225578"&gt;Vimeo - W6 - 1&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
  &lt;/section&gt;
+ 
 
 
 
@@ -2850,7 +2915,7 @@ g.es("admin pelican 執行完畢")</t>
 <t tx="leo.20151115232457.11">&lt;section&gt;
     &lt;section&gt;
         &lt;h1&gt;任務成果&lt;/h1&gt;
-        &lt;p&gt;1.倉儲網址&lt;/p&gt;
+        &lt;p&gt;1.網頁網址&lt;/p&gt;
         &lt;p&gt;2.自製影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
@@ -2860,8 +2925,6 @@ g.es("admin pelican 執行完畢")</t>
     &lt;section&gt;
         &lt;h1&gt;自製影片&lt;/h1&gt;
         &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -2878,7 +2941,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;65 分&lt;/p&gt;
+        &lt;p&gt;80 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
@@ -2946,15 +3009,16 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232457.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第六週內容&lt;/h1&gt;
-    &lt;p&gt;1.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;2.說明 Creo Parametric 基本操作。&lt;/p&gt;
-    &lt;p&gt;3.說明如何全班協同。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第六週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明 Creo Parametric 基本操作。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明如何全班協同。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -2969,26 +3033,33 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232505.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務一&lt;/h1&gt;
+        &lt;h1&gt;任務七&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1)修改衝突。&lt;/p&gt;
-        &lt;p&gt;(2)&lt;/p&gt;
-        &lt;p&gt;(3)&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1)修改衝突。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3667"&gt;w7&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3667"&gt;w7&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W7&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143572506"&gt;Vimeo - W7 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143574887"&gt;Vimeo - W7 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/143963816"&gt;Vimeo - W7 - 3&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;			
+&lt;/section&gt;
+
+
+
 				
 </t>
 <t tx="leo.20151115232505.11">&lt;section&gt;
@@ -3022,11 +3093,11 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;80 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
-        &lt;p&gt;上次的預感是對的&lt;/p&gt;         
+        &lt;p&gt;第六感很準&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3090,15 +3161,16 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232505.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第七週內容&lt;/h1&gt;
-    &lt;p&gt;1.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;2.說明如何解決衝突與衝突架構。&lt;/p&gt;
-    &lt;p&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第七週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明如何解決衝突與衝突架構。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -3113,23 +3185,25 @@ g.es("admin pelican 執行完畢")</t>
 </t>
 <t tx="leo.20151115232511.10">&lt;section&gt;
     &lt;section&gt;
-        &lt;h1&gt;作業任務八&lt;/h1&gt;
+        &lt;h1&gt;任務八&lt;/h1&gt;
         &lt;p&gt;1.任務說明&lt;/p&gt;
         &lt;p&gt;2.參考網址&lt;/p&gt;
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt; (1)資料統整。(第 1~8 週)&lt;/p&gt;
-        &lt;p&gt;(2)全班協同網頁與個人網頁的連結。&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt; (1)資料統整。(第 1~8 週)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)全班協同網頁與個人網頁的連結。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3670"&gt;w8&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3670"&gt;w8&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W8&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W8&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
@@ -3236,17 +3310,18 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232511.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第八週內容&lt;/h1&gt;
-    &lt;p&gt;1.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
-    &lt;p&gt;2.說明如何將全班協同與個人網誌做連結。&lt;/p&gt;
-    &lt;p&gt;3.說明期中評分規則。&lt;/p&gt;
-    &lt;p&gt;4.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;5.說明 Creo Parametric 基本操作。&lt;/p&gt;
+    &lt;h1 align="left"&gt;第八週筆記&lt;/h1&gt;
+    &lt;p align="left"&gt;1.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
+    &lt;p align="left"&gt;2.說明如何將全班協同與個人網誌做連結。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明期中評分規則。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;5.說明 Creo Parametric 基本操作。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -3273,18 +3348,20 @@ g.es("admin pelican 執行完畢")</t>
         &lt;p&gt;3.參考影片&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h1&gt;任務說明&lt;/h1&gt;
-        &lt;p&gt;(1) CADPA 登錄自評成績 。&lt;/p&gt;
-        &lt;p&gt;(2)&lt;/p&gt;
-        &lt;p&gt;(3)&lt;/p&gt;
+        &lt;h1 align="left"&gt;任務說明&lt;/h1&gt;
+        &lt;p align="left"&gt;(1) CADPA 登錄自評成績 。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考網址&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3673"&gt;w9&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://wordpress-2015course.rhcloud.com/?p=3673"&gt;w9&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;參考影片&lt;/h1&gt;
-        &lt;p&gt;請參考 &lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W9&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://vimeo.com/user24079973/videos"&gt;Vimeo - W9&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3320,7 +3397,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h1&gt;自評&lt;/h1&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;88 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h1&gt;啟發&lt;/h1&gt;
@@ -3389,15 +3466,16 @@ g.es("admin pelican 執行完畢")</t>
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
     &lt;h1&gt;四設計二甲&lt;/h1&gt;
-    &lt;p&gt;40323107  廖佑珊&lt;/p&gt;		
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;	
 &lt;/section&gt;
 	
 </t>
 <t tx="leo.20151115232520.9">&lt;section id="hw-task-one"&gt;
-    &lt;h1&gt;第九週內容&lt;/h1&gt;
-    &lt;p&gt;1.說明課程內容及綱要。&lt;/p&gt;
-    &lt;p&gt;2.&lt;/p&gt;
-    &lt;p&gt;3.&lt;/p&gt;
+    &lt;h1 align="left"&gt;第九週內容&lt;/h1&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
  &lt;/section&gt;
 				
 </t>
