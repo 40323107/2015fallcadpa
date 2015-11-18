@@ -1837,9 +1837,10 @@ Code syntax highlighting courtesy of &lt;a href="http://softwaremaniacs.org/soft
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;p&gt;1.如何輸出字串&lt;/p&gt;
+        &lt;p&gt;2.如何創建倉儲&lt;/p&gt;
+        &lt;p&gt;3.如何新建分支&lt;/p&gt;
+        &lt;p&gt;4.如何新建網頁&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -2438,8 +2439,8 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;如何下載相關檔案&lt;/p&gt;
-        &lt;p&gt;如何新增網頁與投影片&lt;/p&gt;
+        &lt;p&gt;1.如何下載相關檔案&lt;/p&gt;
+        &lt;p&gt;2.如何新增網頁與投影片&lt;/p&gt;
         &lt;/section&gt;
 &lt;/section&gt;
 
@@ -2754,7 +2755,7 @@ g.es("admin pelican 執行完畢")</t>
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt;(1)下載 reveal2-gh-pages 與 fix。&lt;/p&gt;
         &lt;p align="left"&gt;(2)個人網頁改版。&lt;/p&gt;
-        &lt;p align="left"&gt;(3)閱讀相關文章。(※Creo Parametric)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)閱讀相關文章。 ( ※Creo Parametric ) &lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
@@ -2959,7 +2960,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;創健全班協同倉儲的個人倉儲與網頁&lt;/p&gt;
+        &lt;p&gt;創建全班協同倉儲的個人倉儲與網頁&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -3081,11 +3082,11 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)閱讀 Creo Parametric 基本操作 &lt;/p&gt;
-        &lt;p align="left"&gt;(2)下載 2015fallcadpa-gh-pages 倉儲&lt;/p&gt;
-        &lt;p align="left"&gt;(3)編輯全班協同的個人網頁內容&lt;/p&gt;
-        &lt;p align="left"&gt;(4)學習如何解決衝突&lt;/p&gt;
-        &lt;p align="left"&gt;(5)學習分析衝突架構&lt;/p&gt;
+        &lt;p align="left"&gt;(1)閱讀 Creo Parametric 基本操作。 &lt;/p&gt;
+        &lt;p align="left"&gt;(2)下載 2015fallcadpa-gh-pages 倉儲。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)編輯全班協同的個人網頁內容。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)學習如何解決衝突。&lt;/p&gt;
+        &lt;p align="left"&gt;(5)學習分析衝突架構。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
@@ -3276,7 +3277,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;全班與個人網頁連結.&lt;/p&gt;
+        &lt;p&gt;全班與個人網頁連結&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 

@@ -4,43 +4,80 @@
 &lt;iframe src="simplest9.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest9.html" target="_blank"&gt;第九週投影片&lt;/a&gt;&lt;/p&gt;
-&lt;h1&gt;w9&lt;/h1&gt;
-&lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及綱要。(※針對〝 2015Fall CADPA 第9週 〞文章 )。&lt;/p&gt;
-&lt;p&gt;2.&lt;/p&gt;
-&lt;p&gt;3.&lt;/p&gt;
-&lt;p&gt;4.&lt;/p&gt;
-&lt;p&gt;5.&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;(※作業)&lt;/em&gt;&lt;/h2&gt;
-&lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1) CADPA 登錄自評成績 。&lt;/p&gt;
-&lt;p&gt;(2)&lt;/p&gt;
-&lt;p&gt;2.成果：&lt;/p&gt;
-&lt;p&gt;網址：&lt;/p&gt;
-&lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
-&lt;p&gt;1.心得：   我好想打高分呀！但我沒做，不是不想做，而是電腦不給力呀~~~ &lt;/p&gt;
-&lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
-&lt;p&gt;3.理由： 自我期許，我相信我可以的，只要給我時間，軟體別再掛了就行。&lt;/p&gt;
-&lt;p&gt;4.啟發： 做人要誠實。&lt;/p&gt;
-&lt;h2&gt;(四) 其他資料：&lt;/h2&gt;
-&lt;p&gt;1.任務網址：http://wordpress-2015course.rhcloud.com/?p=3673&lt;/p&gt;
-&lt;p&gt;2.&lt;/p&gt;
-&lt;p&gt;3.&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業八</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w8%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-05T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-05:2015fallcadpa/2015cp_hw_w8 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第八週內容&lt;/p&gt;
+&lt;h1&gt;w9  各週資料統整：&lt;/h1&gt;
+&lt;p&gt;w1&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;1.創建 `Github `個人倉儲。 
+2.創建 `分支` 。
+3.創建 `測試網頁`。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w2&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;4.下載 fix 與 reveal-gh-pages 的檔案。
+5.複製 reveal-gh-pages 倉儲內容至個人倉儲裡。
+6.產生個人網頁與投影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w3&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;7.利用 leo 新增網頁與投影片。
+8.利用 leo 修改網頁與投影片內容。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w4&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;9.利用 solvespace 繪製零件。
+10.將零件圖片放到網頁或投影片中。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w5&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;11.下載 fix 與 reveal2-gh-pages 的檔案。
+12.進行網頁改版。
+13.編輯網頁與投影片內容。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w6&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;14.將自己加入全班協同倉儲中。
+15.進入全班協同倉儲中新增個人倉儲。
+16.利用 leo 新增全班協同個人網頁與投影片。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w7&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;17.統整各週網頁與投影片。
+18.修改衝突。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;w8&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;19.確認各週作業的資料是否有齊全。
+20.自評。
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2&gt;其他資料：&lt;/h2&gt;
+&lt;p&gt;w9 任務網址：http://wordpress-2015course.rhcloud.com/?p=3673&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業八</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w8%20-%20%2040323107.html" rel="alternate"></link><updated>2015-11-05T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-11-05:2015fallcadpa/2015cp_hw_w8 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第八週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest8.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest8.html" target="_blank"&gt;第八週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w8&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第8週 〞文章 )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第8週 〞文章  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.說明如何將全班協同與個人網誌做連結。&lt;/p&gt;
 &lt;p&gt;3.說明期中評分規則。&lt;/p&gt;
 &lt;p&gt;4.將 W1 ~ W8 的作業做統整。&lt;/p&gt;
 &lt;p&gt;5.說明 Creo Parametric 基本操作。&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;( ※作業 )&lt;/em&gt;&lt;/h2&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)資料統整。&lt;em&gt;( ※第 1 ~ 8 週 )&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;(2)全班協同網頁與個人網頁的連結。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)資料統整。`( ※第 1 ~ 8 週 )`
+(2)全班協同網頁與個人網頁的連結。
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;p&gt;40323107 -  Pages： http://40323107.github.io/2015fallcadpa/ &lt;/p&gt;
 &lt;p&gt;40323107 - Github： https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/p&gt;
@@ -49,10 +86,11 @@
 &lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
 &lt;p&gt;1.心得：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;這週為第八週喔！資料整理了嗎？&lt;/p&gt;
+&lt;p&gt;這週為第八週喔！資料整理了嗎？交作業時間快到了唷！&lt;/p&gt;
 &lt;p&gt;這週任務並不難，只是系統容易出錯，導致進度有些阻礙而已，大致上沒問題，還能夠
 教導別人呢！但還是有新的知識要學，雖然一開始不太懂，但詢問過同學與教授加上自
 我嘗試後，我理解了，總之，雖然思緒待整理，但感覺很有趣、很有成就感。&lt;/p&gt;
+&lt;p&gt;全班協同倉儲的  &lt;code&gt;leo&lt;/code&gt; 真令人頭疼呀！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評： 85 分 。&lt;/p&gt;
 &lt;p&gt;3.理由： 整體而言，課程進度沒問題、資料統整還行、教導別人尚可。&lt;/p&gt;
@@ -62,33 +100,40 @@
 &lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
 &lt;p&gt;w8： http://wordpress-2015course.rhcloud.com/?p=3670&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;p&gt;Vimeo - W8： https://vimeo.com/user24079973/videos&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w7%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-29T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-29:2015fallcadpa/2015cp_hw_w7 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第七週內容&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;本週無教學影片。&lt;/code&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業七</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w7%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-29T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-29:2015fallcadpa/2015cp_hw_w7 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第七週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest7.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest7.html" target="_blank"&gt;第七週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w7&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第7週 〞文章 )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第7週 〞文章  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.說明如何解決衝突與衝突的架構。&lt;/p&gt;
 &lt;p&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
 &lt;p&gt;4.說明如何同時運作&lt;code&gt;個人&lt;/code&gt;與&lt;code&gt;全班&lt;/code&gt;的倉儲修改。&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;( ※作業 )&lt;/em&gt;&lt;/h2&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)閱讀 Creo Parametric 基本操作 。&lt;/p&gt;
-&lt;p&gt;(2)下載&lt;code&gt;2015fallcadpa-gh-pages&lt;/code&gt;倉儲。&lt;/p&gt;
-&lt;p&gt;(3)編輯&lt;code&gt;全班&lt;/code&gt;協同的個人&lt;code&gt;網頁&lt;/code&gt;內容。&lt;/p&gt;
-&lt;p&gt;(4)學習如何解決衝突。&lt;/p&gt;
-&lt;p&gt;(5)學習分析衝突架構。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀 Creo Parametric 基本操作 。
+(2)下載 `2015fallcadpa-gh-pages` 倉儲。
+(3)編輯 `全班` 協同的個人 `網頁` 內容。
+(4)學習如何解決衝突。
+(5)學習分析衝突架構。
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;p&gt;全班協同倉儲： https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/p&gt;
 &lt;p&gt;40323107 - class pages： http://2015fallhw.github.io/2015fallcadpa/user/40323107/&lt;/p&gt;
 &lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
 &lt;p&gt;1.心得：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;這週為第七週喔！    &lt;/p&gt;
-&lt;p&gt;這週的任務是接續上週的問題，因此，課程內容差不多，只是多一點點問題罷了，所
-以，這週主要是教導我們如何解決衝突與認識衝突架構，就是因為這個步驟很容易被忽&amp;gt; 略掉，而導致連鎖效應，因此，經過上週的教訓與經歷，告訴我別輕視這個問題，很重&amp;gt; 要、很關鍵呀！所以我得學起來、記下來，避免再犯相同的錯.才行，其餘部份問題比較&amp;gt; 少、不嚴重，還能夠自我處理，總之，就是不斷的學習、不斷的吸收、彙整資料...等。&lt;/p&gt;
+&lt;p&gt;進入第七週課程了喔！進度有跟上吧！    &lt;/p&gt;
+&lt;p&gt;這週的任務是接續上週的問題，因此，課程內容差不多，只是多一點點問題罷了，所以，這週主要是教導我們如何
+解決衝突與認識衝突架構，就是因為這個步驟很容易被忽略掉，而導致連鎖效應，因此，經過上週的教訓與經歷，
+告訴我別輕視這個問題，很重&amp;gt; 要、很關鍵呀！所以我得學起來、記下來，避免再犯相同的錯.才行，其餘部份問題
+比較少、不嚴重，還能夠自我處理，總之，就是不斷的學習、不斷的吸收、彙整資料...等。&lt;/p&gt;
+&lt;p&gt;好多新知識喔！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：85  分 。&lt;/p&gt;
 &lt;p&gt;3.理由：能夠自我處理。 &lt;/p&gt;
@@ -99,46 +144,53 @@
 &lt;p&gt;w7： http://wordpress-2015course.rhcloud.com/?p=3667&lt;/p&gt;
 &lt;p&gt;全班協同倉儲： https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages &lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;p&gt;Vimeo - W7 - 1： https://player.vimeo.com/video/143572506&lt;/p&gt;
-&lt;p&gt;Vimeo - W7 - 2： https://player.vimeo.com/video/143574887&lt;/p&gt;
-&lt;p&gt;Vimeo - W7 - 3： https://player.vimeo.com/video/143963816&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業六</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w6%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-22T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-22:2015fallcadpa/2015cp_hw_w6 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第六週內容&lt;/p&gt;
+&lt;p&gt;W7 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/143572506" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W7 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/143574887" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W7 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/143963816" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業六</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w6%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-22T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-22:2015fallcadpa/2015cp_hw_w6 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第六週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest6.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest6.html" target="_blank"&gt;第六週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w6&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第6週 〞文章 )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第6週 〞文章  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.說明 Creo Parametric 基本操作。&lt;/p&gt;
 &lt;p&gt;3.說明如何全班協同。&lt;/p&gt;
-&lt;p&gt;4.說明如何於全班協同倉儲新增自己的倉儲。&lt;/p&gt;
+&lt;p&gt;4.說明如何於&lt;code&gt;全班&lt;/code&gt;協同倉儲新增&lt;code&gt;自己&lt;/code&gt;的倉儲。&lt;/p&gt;
 &lt;p&gt;5.製作全班協同的個人網頁。&lt;/p&gt;
 &lt;p&gt;6.下載  fix.zip 。&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;( ※作業 )&lt;/em&gt;&lt;/h2&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業  )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)閱讀 Creo Parametric 基本操作。&lt;/p&gt;
-&lt;p&gt;(2)將自己加入全班協同倉儲中。&lt;/p&gt;
-&lt;p&gt;(3)於全班協同倉儲中新增自己的倉儲。&lt;/p&gt;
-&lt;p&gt;(4)產生全班協同倉儲的個人網頁。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)閱讀 Creo Parametric 基本操作。
+(2)將`自己`加入`全班`協同倉儲中。
+(3)於全班協同倉儲中新增自己的倉儲。
+(4)產生全班協同倉儲的個人網頁。
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;p&gt;40323107 - class pages： http://2015fallhw.github.io/2015fallcadpa/user/40323107/&lt;/p&gt;
-&lt;p&gt;教學影片：&lt;/p&gt;
 &lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
 &lt;p&gt;1.心得：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;課程進入第六週囉！&lt;/p&gt;
+&lt;p&gt;課程進入到第六週囉！作業進度如何呢！？&lt;/p&gt;
 &lt;p&gt;這週的任務是做全班協同呢！是困難還是簡單，嘗試過後就知道，感覺有點躍躍
 欲試呢！那我要認真做筆記才行，然後，根據筆記的操作流程，順利的推出去
 了，也確認網頁建構成功，當下有種難以言喻的雀躍感與成就感呢！成功的瞬間
-令人心情舒暢呀！,但心中卻有不好的預感，過沒多久，預感成真， leo 掛掉了，
+令人心情舒暢呀！但心中卻有不好的預感，過沒多久，預感成真， leo 掛掉了，
 是該喜還是該悲呢！後來大家就一起討論，嘗試找出錯誤，因此，從中我吸收到
 新的知識與方法，感覺錯誤反而讓人學到更多知識，好複雜的情緒唷！另外，因
 為很快就完成自己的任務，所以嘗試著去幫助別人，從中獲得諸多感受，但可以
 確認的是幫助別人對自己是有好處的，可以幫助自己快速的理解並加深印象、熟
 悉流程...等，總之，這一週的表現還不錯。    &lt;/p&gt;
+&lt;p&gt;這樣的結果是要開心還是難過呢！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：88 分 。&lt;/p&gt;
-&lt;p&gt;3.理由： 表現還不錯&lt;/p&gt;
+&lt;p&gt;3.理由： 表現的還不錯，還有幫助別人。&lt;/p&gt;
 &lt;p&gt;4.啟發：沒問題就是有問題、成功為失敗的開端、凡事都要小心謹慎、助人為快樂之本喔 ！&lt;/p&gt;
 &lt;h2&gt;(四)其他資料：&lt;/h2&gt;
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
@@ -148,54 +200,59 @@
 &lt;p&gt;全班協同倉儲： https://github.com/2015fallhw/2015fallcadpa/tree/gh-pages&lt;/p&gt;
 &lt;p&gt;全班協同網頁： http://2015fallhw.github.io/2015fallcadpa/&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;p&gt;Vimeo - W6 - 1： https://player.vimeo.com/video/143225578&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業五</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w5%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-15T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-15:2015fallcadpa/2015cp_hw_w5 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第五週內容&lt;/p&gt;
+&lt;p&gt;W6 - 1：
+ &lt;iframe src=" https://player.vimeo.com/video/143225578" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業五</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w5%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-15T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-15:2015fallcadpa/2015cp_hw_w5 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第五週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest5.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest5.html" target="_blank"&gt;第五週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w5&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第5週 〞文章 )&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2.說明〝如何從作業自評中取分〞這篇文章。&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第5週 〞文章  )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明 &lt;code&gt;〝如何從作業自評中取分〞&lt;/code&gt; 這篇文章。&lt;/p&gt;
 &lt;p&gt;3.說明 Creo Parametric 基本操作。&lt;/p&gt;
-&lt;p&gt;4.說明如何將個人網頁做改版。&lt;/p&gt;
+&lt;p&gt;4.說明如何將&lt;code&gt;個人網頁&lt;/code&gt;做改版。&lt;/p&gt;
 &lt;p&gt;5.說明如何利用 &lt;code&gt;git rm&lt;/code&gt;刪除網頁。&lt;/p&gt;
-&lt;p&gt;6.說明何謂〝對等生產模式〞。&lt;/p&gt;
+&lt;p&gt;6.說明何謂 &lt;code&gt;〝對等生產模式〞&lt;/code&gt;。&lt;/p&gt;
 &lt;p&gt;7.影片觀賞。&lt;/p&gt;
-&lt;p&gt;8.下載  reveal2-gh-pages 倉儲  與   fix 檔案 。&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果：&lt;em&gt; (※作業)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;8.下載 &lt;code&gt;reveal2-gh-pages 倉儲&lt;/code&gt; 與  &lt;code&gt;fix&lt;/code&gt; 檔案 。&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)下載 reveal2-gh-pages 與 fix。&lt;/p&gt;
-&lt;p&gt;(2)個人網頁改版。&lt;em&gt;( ※ reveal → reveal2，稍作修改即可 )&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;(3)閱讀相關文章。&lt;em&gt;( ※Creo Parametric )&lt;/em&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載  reveal2-gh-pages 與  fix 的檔案。
+(2)個人網頁改版。`( ※ reveal → reveal2，稍作修改即可 。 )`
+(3)閱讀相關文章。`(  ※Creo Parametric )`
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;p&gt;40323107 -  Pages - old； http://40323107.github.io/2015cadpw1/&lt;/p&gt;
 &lt;p&gt;40323107 -  Pages - new：http://40323107.github.io/2015fallcadpa/&lt;/p&gt;
 &lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
 &lt;p&gt;1.心得：&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;這週為第五週喔！&lt;/p&gt;
+&lt;p&gt;時間流逝的真快呀！不知不覺間就來到第五週啦！這週要探討什麼呢！？&lt;/p&gt;
 &lt;p&gt;這週吸收很多資訊呢！腦容量有點承受不住，但我會盡量理解並學以致用的，關於任務，大至上沒問題，很順利的
 改版成功並新增內容呢！另外，對於利用 git 指令刪除檔案，有點懂又不太懂，就是盡量做到〝只增不刪〞就不會產&amp;gt; 生大問題了，還有關於 Creo Parametric 基本操作，還在理解中，但整體架構跟 SolidWorks 軟體很像呢！就是不知道操
 作模式是否雷同，反正〝試〞就對了，總之，整體而言，還可以，有問題我會請教同學與教授的。    &lt;/p&gt;
+&lt;p&gt;每個步驟都要小心謹慎呢！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：80 分 。&lt;/p&gt;
-&lt;p&gt;3.理由：整體而言，任務有完成。&lt;/p&gt;
+&lt;p&gt;3.理由：整體而言，任務順利完成。&lt;/p&gt;
 &lt;p&gt;4.啟發：遇到問題要勇敢面對、你的成功是建構在別人的失敗上、凡事都要大膽嘗試，才能從中得到答案&lt;/p&gt;
 &lt;h2&gt;(四)其他資料：&lt;/h2&gt;
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
 &lt;p&gt;2.本週課程內容網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;w5： http://wordpress-2015course.rhcloud.com/?p=3660
-Creo Parametric： http://wordpress-2015course.rhcloud.com/?p=4146
-作業自評取分重點： http://wordpress-2015course.rhcloud.com/?p=4148
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;p&gt;w5： http://wordpress-2015course.rhcloud.com/?p=3660&lt;/p&gt;
+&lt;p&gt;Creo Parametric： http://wordpress-2015course.rhcloud.com/?p=4146&lt;/p&gt;
+&lt;p&gt;作業自評取分重點： http://wordpress-2015course.rhcloud.com/?p=4148&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;W5 - 1：https://player.vimeo.com/video/142093273
-W5 - 2：https://player.vimeo.com/video/142093479 
-W5 - 3：https://player.vimeo.com/video/142098889
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w4%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-08T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-08:2015fallcadpa/2015cp_hw_w4 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第四週內容&lt;/p&gt;
+&lt;p&gt;W5 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/142093273" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W5 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/142093479 " width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W5 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/142098889 " width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;   &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業四</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w4%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-08T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-08:2015fallcadpa/2015cp_hw_w4 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第四週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest4.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -229,11 +286,11 @@ W5 - 3：https://player.vimeo.com/video/142098889
 &lt;h2&gt;(三) 心得與自評：&lt;/h2&gt;
 &lt;p&gt;1.心得： &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;這週為第四週，有增加新的課程內容喔！&lt;/p&gt;
+&lt;p&gt;這週是第四週，有增加新的課程內容喔！&lt;/p&gt;
 &lt;p&gt;這週主要任務是利用 solvespace 繪製零件，一開始認為很簡單，結果慘不忍賭呢！還好有老師的現場教學才能順利完
 成任務，看來這次是把事情簡單化了，總之，經過教授的解說，至少知道 solvespace 的基本指令與操作，其他部分就
-要靠自己去理解與摸索了，經過這次教學，讓我深刻的領悟到英文真的很重要啊！ 
-&lt;/p&gt;
+要靠自己去理解與摸索了，經過這次教學，讓我深刻的領悟到英文真的很重要啊！ &lt;/p&gt;
+&lt;p&gt;這週主要任務是繪圖零件喔！很有趣的說。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：85 分 。&lt;/p&gt;
 &lt;p&gt;3.理由： 整體而言，都有跟上進度。&lt;/p&gt;
@@ -291,8 +348,8 @@ W5 - 3：https://player.vimeo.com/video/142098889
 &lt;blockquote&gt;
 &lt;p&gt;本課程以進入第三週囉！筆記要記得整理唷！&lt;/p&gt;
 &lt;p&gt;這週獲得好多知識喔！如：新增網頁與投影片、編輯投影片格式...等，也學到新的軟體 solvespace 呢！solvespace整體
-架構有點像 Auto CAD，可惜的是 英文版 的，還有，操作方式也不太一樣，總之，好像有難度，所以還需要研究與理&amp;gt; 解，另外，編輯自己的投影片就是改變格式(可上下左右翻閱)，超有趣的，總之，獲益良多。
-&lt;/p&gt;
+架構有點像 Auto CAD，可惜的是 英文版 的，還有，操作方式也不太一樣，總之，好像有難度，所以還需要研究與理&amp;gt; 解，另外，編輯自己的投影片就是改變格式(可上下左右翻閱)，超有趣的，總之，獲益良多。&lt;/p&gt;
+&lt;p&gt;新軟體： solvespace，是一個繪圖軟體唷！&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：88 分 。&lt;/p&gt;
 &lt;p&gt;3.理由： 任務有確實完成。&lt;/p&gt;
