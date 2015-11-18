@@ -426,7 +426,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232520.1"><vh>@clean simplest9.html</vh>
+<v t="leo.20151115232520.1" a="E"><vh>@clean simplest9.html</vh>
 <v t="leo.20151115232520.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232520.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232520.4" a="E"><vh>body 標註</vh>
@@ -3412,7 +3412,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt;(1) CADPA 登錄自評成績 。&lt;/p&gt;
-        &lt;p align="left"&gt;(2)CADPA 登錄網頁網址&lt;/p&gt;
+        &lt;p align="left"&gt;(2)CADPA 登錄網頁網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h3&gt;參考網址&lt;/h3&gt;
@@ -3540,8 +3540,8 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151115232520.9">&lt;section id="hw-task-one"&gt;
     &lt;h3 align="left"&gt;第九週筆記&lt;/h3&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登錄自評分數&lt;/p&gt;
-    &lt;p align="left"&gt;3.登錄全班協同個人網頁與個人網頁&lt;/p&gt;
+    &lt;p align="left"&gt;2.登錄自評分數。&lt;/p&gt;
+    &lt;p align="left"&gt;3.登錄全班協同個人網頁與個人網頁。&lt;/p&gt;
  &lt;/section&gt;
 				
 </t>
