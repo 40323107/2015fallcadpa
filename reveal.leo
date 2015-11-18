@@ -408,7 +408,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232511.1" a="E"><vh>@clean simplest8.html</vh>
+<v t="leo.20151115232511.1"><vh>@clean simplest8.html</vh>
 <v t="leo.20151115232511.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232511.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232511.4" a="E"><vh>body 標註</vh>
@@ -2248,7 +2248,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.如何安裝 leo&lt;/p&gt;
+        &lt;p&gt;1.如何安裝leo編輯器&lt;/p&gt;
         &lt;p&gt;2.如何新增倉儲內容&lt;/p&gt;
         &lt;p&gt;3.如何下載課程影片&lt;/p&gt;
     &lt;/section&gt;
@@ -2263,7 +2263,7 @@ g.es("admin pelican 執行完畢")</t>
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;這週是接續上週的任務內容，教導(解決)我們如何創建倉儲與安裝 leo，新的任務則是增加倉儲內容，結論，當我們完成這週任務的時候，必須要有`個人Github倉儲`、`個人網頁`、`投影片`...等，總之，整體而言，都能理解，只是還需要多研究與操作，理清思緒就行了，其實沒有很困難，是我們想太多、搞太複雜、做太少而已。&lt;/p&gt;
+        &lt;p&gt;這週是接續上週的任務內容，教導(解決)我們如何創建倉儲與安裝 leo，新的任務則是增加倉儲內容，結論，當我們完成這週任務的時候，必須要有個人Github倉儲、個人網頁、投影片...等，總之，整體而言，都能理解，只是還需要多研究與操作，理清思緒就行了，其實沒有很困難，是我們想太多、搞太複雜、做太少而已。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
@@ -2581,7 +2581,7 @@ g.es("admin pelican 執行完畢")</t>
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
         &lt;p align="left"&gt;(1)下載 solvespace 2.1版。&lt;/p&gt;
         &lt;p align="left"&gt;(2)利用 solvespace 繪圖。&lt;/p&gt;
-        &lt;p align="left"&gt;(3)閱讀相關文章。(※Ipthon、Jupyter、solvespace) &lt;/p&gt;
+        &lt;p align="left"&gt;(3)閱讀相關文章。( ※Ipthon、Jupyter、solvespace) &lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;

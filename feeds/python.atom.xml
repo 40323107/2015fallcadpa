@@ -202,20 +202,27 @@ W5 - 3：https://player.vimeo.com/video/142098889
 &lt;p&gt;&lt;a href="simplest4.html" target="_blank"&gt;第四週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w4&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第4週 〞文章 )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;(※針對〝 2015Fall CADPA 第4週 〞文章 )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.說明 Ipthon 與 Jupyter 的差異。&lt;/p&gt;
-&lt;p&gt;3.說明變頻的原理。&lt;em&gt;(※冷氣)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;3.說明變頻的原理。
+&lt;code&gt;(※冷氣)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;4.說明如何下載 solvespace 2.1版 ，並繪圖。&lt;/p&gt;
-&lt;p&gt;5.利用 solvespace 繪圖。&lt;em&gt;(※學生)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;6.solvespace 繪圖教學。&lt;em&gt;(※教授)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;7.提供學習語言的優先順序。&lt;em&gt;( ※ Javascript → python → c 或 c++ → Java )&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;(※作業)&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;5.利用 solvespace 繪圖。
+&lt;code&gt;(※學生)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.solvespace 繪圖教學。
+&lt;code&gt;(※教授)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;7.提供學習語言的優先順序。
+&lt;code&gt;( ※ Javascript → python → c 或 c++ → Java )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;(※作業)&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)下載 solvespace 2.1版。&lt;/p&gt;
-&lt;p&gt;(2)利用 solvespace 繪圖。&lt;/p&gt;
-&lt;p&gt;(3)閱讀相關文章。&lt;em&gt;(※Ipthon、Jupyter、solvespace)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2.成果：&lt;/p&gt;
-&lt;p&gt;圖片：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載 solvespace 2.1版。
+(2)利用 solvespace 繪圖。
+(3)閱讀相關文章。`(※Ipthon、Jupyter、solvespace)`
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;2.成果：&lt;code&gt;( ※圖片 )&lt;/code&gt; &lt;/p&gt;
 &lt;p&gt;&lt;img src="images/01.PNG" width="500" alt="零件"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src="images/10.08.PNG" width="500" alt="零件"&gt;&lt;/img&gt;&lt;/p&gt;
 &lt;p&gt;教學影片：&lt;/p&gt;
@@ -234,44 +241,48 @@ W5 - 3：https://player.vimeo.com/video/142098889
 &lt;h2&gt;(四)其他資料：&lt;/h2&gt;
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
 &lt;p&gt;2.本週課程內容網址： &lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;w4： http://wordpress-2015course.rhcloud.com/?p=3657
-Solvespace： http://wordpress-2015course.rhcloud.com/?p=3971
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;p&gt;w4： http://wordpress-2015course.rhcloud.com/?p=3657&lt;/p&gt;
+&lt;p&gt;Solvespace： http://wordpress-2015course.rhcloud.com/?p=3971&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;W4 - 1： https://player.vimeo.com/video/141762531
-W4 - 2： https://player.vimeo.com/video/141370058
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業三</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w3%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-01T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-01:2015fallcadpa/2015cp_hw_w3 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第三週內容&lt;/p&gt;
+&lt;p&gt;W4 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/141762531" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W4 - 2：
+ &lt;iframe src=" https://player.vimeo.com/video/141370058" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業三</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w3%20-%20%2040323107.html" rel="alternate"></link><updated>2015-10-01T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-10-01:2015fallcadpa/2015cp_hw_w3 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第三週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest3.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest3.html" target="_blank"&gt;第三週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w3&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015Fall CADPA 第3週 〞文章 )&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第3週 〞文章  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.說明&lt;code&gt;科學&lt;/code&gt;與&lt;code&gt;工程&lt;/code&gt;的差異。&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;科學：探究自然界〝已存在 〞的原則或原理。
 工程：,研究〝不存在〞的事物，以不違反原則下創造。(ex：飛機製造)
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;&lt;code&gt;( ※ps：利用 方程式運算來解釋科學原理 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;( ※ps：利用 方程式運算來解釋科學原理  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;3.下載 fix 與 reveal - gh-pages 檔案。&lt;/p&gt;
 &lt;p&gt;4.說明如何&lt;code&gt;新增&lt;/code&gt;網頁與投影片。&lt;/p&gt;
-&lt;p&gt;5.說明如何&lt;code&gt;編輯&lt;/code&gt;個人投影片。&lt;em&gt;(※投影片格式)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;5.說明如何&lt;code&gt;編輯&lt;/code&gt;個人投影片。
+&lt;code&gt;( ※投影片格式 )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;6.說明 notebook.py 文章與如何修改。&lt;/p&gt;
 &lt;p&gt;7.,說明 solvespace 文章與基本操作。&lt;/p&gt;
 &lt;p&gt;8.下載 solvespace 軟體。&lt;/p&gt;
-&lt;p&gt;9.說明如何利用 git 指令刪除檔案。&lt;em&gt;(※ 指令：git rm 檔名)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;9.說明如何利用 git 指令刪除檔案。
+&lt;code&gt;( ※ 指令：git rm 檔名 )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;10.下載課程教學影片。&lt;em&gt;(※搜尋：192.168.1.35:8000)&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： (※作業)&lt;/h2&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;p&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。&lt;/p&gt;
-&lt;p&gt;(2)新增個人網頁與投影片。&lt;/p&gt;
-&lt;p&gt;(3)編輯個人投影片。&lt;/p&gt;
-&lt;p&gt;(4)修改 notebook.py 。&lt;/p&gt;
-&lt;p&gt;(5)下載 solvespace 軟體與閱讀說明書。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。
+(2)新增個人網頁與投影片。
+(3)編輯個人投影片。
+(4)修改 notebook.py 。
+(5)下載 solvespace 軟體與閱讀說明書。
+&lt;/pre&gt;&lt;/div&gt;
+
+
 &lt;p&gt;2.成果：&lt;/p&gt;
 &lt;p&gt;40323107 - Github ：https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/p&gt;
 &lt;p&gt;40323107 -  Pages ： http://40323107.github.io/2015fallcadpa/&lt;/p&gt;
@@ -284,59 +295,65 @@ W4 - 2： https://player.vimeo.com/video/141370058
 &lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;2.自評：88 分 。&lt;/p&gt;
-&lt;p&gt;3.理由： 任務有完成。&lt;/p&gt;
+&lt;p&gt;3.理由： 任務有確實完成。&lt;/p&gt;
 &lt;p&gt;4.啟發： 學以致用、凡事都要積極的嘗試    &lt;/p&gt;
 &lt;h2&gt;(四)其他資料：&lt;/h2&gt;
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
 &lt;p&gt;2.本週課程內容網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;w3：http://wordpress-2015course.rhcloud.com/?p=3650
-notebook：http://wordpress-2015course.rhcloud.com/?p=4054
-Solvespace：http://wordpress-2015course.rhcloud.com/?p=3971
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;p&gt;w3：http://wordpress-2015course.rhcloud.com/?p=3650&lt;/p&gt;
+&lt;p&gt;notebook：http://wordpress-2015course.rhcloud.com/?p=4054&lt;/p&gt;
+&lt;p&gt;Solvespace：http://wordpress-2015course.rhcloud.com/?p=3971&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;p&gt;W3 - 1： https://player.vimeo.com/video/141021392
-W3 - 2： https://player.vimeo.com/video/141024439
-W3 - 3： https://player.vimeo.com/video/141026116&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業二</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w2%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-24T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-24:2015fallcadpa/2015cp_hw_w2 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第二週內容&lt;/p&gt;
+&lt;p&gt;W3 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/141021392" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W3 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/141024439" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W3 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/141026116" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業二</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w2%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-24T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-24:2015fallcadpa/2015cp_hw_w2 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第二週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest2.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;a href="simplest2.html" target="_blank"&gt;第二週投影片&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;w2&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
-&lt;p&gt;1.說明課程內容及任務。&lt;em&gt;(※針對〝 2015 Fall CADPA 第2週 〞文章 )&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;2.說明如何安裝 &lt;code&gt;leo&lt;/code&gt;。
-    方法一：
-        使用 pip install 的指令安裝 leo。&lt;em&gt;(※在 &lt;code&gt;cmd&lt;/code&gt; 裡)&lt;/em&gt;
-         (※操作：start → cmd → 輸入 pip install &lt;code&gt;leo editor github 的倉儲網址&lt;/code&gt;或 &lt;code&gt;leo editor github 的壓縮檔名&lt;/code&gt; → enter 。 )
-    方法二：
-        使用 SciTE 安裝 leo。
-        (※操作：start → SciTE → 打開&lt;code&gt;launchLeo.py&lt;/code&gt; → Options → python.properties → 把&lt;code&gt;command.go.&lt;/code&gt;修改為&lt;code&gt;Y:\Anaconda3\pythonw -u&lt;/code&gt;→ File：save → 返回 &lt;code&gt;launchLeo.py&lt;/code&gt; → Tools：Go → 完成。&lt;/p&gt;
-&lt;p&gt;3.說明 &lt;code&gt;git clone&lt;/code&gt; 與 &lt;code&gt;download&lt;/code&gt; 的差異。
-    git clone：
-        &lt;code&gt;複製&lt;/code&gt;別人的倉儲內容 - &lt;code&gt;全部&lt;/code&gt; 
-    download：
-        &lt;code&gt;下載&lt;/code&gt;別人的倉儲內容 - &lt;code&gt;指定&lt;/code&gt; &lt;/p&gt;
-&lt;p&gt;4.檢查 launchLeo.py。&lt;em&gt;(※利用 Sci TE)&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;5.創建新倉儲。&lt;em&gt;(※為w1進度，完成者則免)&lt;/em&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;*(※操作：Github → New Repository → Repository name：`2015fallcadpa` → 將 `Initialize this repository with a README` 打勾 →  按`Create Repository` → 完成。)*
+&lt;p&gt;1.說明課程內容及任務。
+&lt;code&gt;( ※針對〝 2015 Fall CADPA 第2週 〞文章 )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;2.說明如何安裝 &lt;code&gt;leo&lt;/code&gt;。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;方法一：
+    使用 pip install 的指令安裝 leo。*(※在 `cmd` 裡)*
+    ( ※操作：start → cmd → 輸入 pip install `leo editor github 的倉儲網址`或 `leo editor github 的壓縮檔名` → enter 。 )
+方法二：
+    使用 SciTE 安裝 leo。
+    ( ※操作：start → SciTE → 打開`launchLeo.py` → Options → python.properties → 把`command.go.`修改為`Y:\Anaconda3\pythonw -u`→ File：save → 返回 `launchLeo.py` → Tools：Go → 完成。)
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;p&gt;6.下載老師的&lt;code&gt;reveal.js&lt;/code&gt; 倉儲。&lt;em&gt;( ※倉儲網址：https://github.com/coursemdetw/&lt;code&gt;reveal&lt;/code&gt; )&lt;/em&gt;&lt;/p&gt;
-&lt;p&gt;7.複製&lt;code&gt;reveal.js倉儲&lt;/code&gt;的&lt;code&gt;內容&lt;/code&gt;至&lt;code&gt;自己&lt;/code&gt;的倉儲。*(※除&lt;code&gt;README.md&lt;/code&gt;)&lt;/p&gt;
-&lt;p&gt;8.下載課程影片。&lt;em&gt;(※搜尋：192.168.1.35:8000)&lt;/em&gt;&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;`操作步驟： cmd → python -m http.server`
+&lt;p&gt;3.說明 &lt;code&gt;git clone&lt;/code&gt; 與 &lt;code&gt;download&lt;/code&gt; 的差異。&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;git clone：
+    → `複製`別人的倉儲內容 - `全部` 。
+download：
+     → `下載`別人的倉儲內容 - `指定` 。
 &lt;/pre&gt;&lt;/div&gt;
 
 
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;( ※作業 )&lt;/em&gt;&lt;/h2&gt;
+&lt;p&gt;4.檢查 launchLeo.py。
+&lt;code&gt;( ※利用 Sci TE )&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;5.創建新倉儲。
+&lt;code&gt;( ※為w1進度，完成者則免 )&lt;/code&gt;
+&lt;code&gt;( ※操作：Github → New Repository → Repository name：&lt;/code&gt;2015fallcadpa&lt;code&gt;→ 將&lt;/code&gt;Initialize this repository with a README&lt;code&gt;打勾 →  按&lt;/code&gt;Create Repository&lt;code&gt;→ 完成。)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;6.下載老師的&lt;code&gt;reveal.js&lt;/code&gt; 倉儲。
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/&lt;/code&gt;reveal&lt;code&gt;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;7.複製&lt;code&gt;reveal.js倉儲&lt;/code&gt;的&lt;code&gt;內容&lt;/code&gt;至&lt;code&gt;自己&lt;/code&gt;的倉儲。
+&lt;code&gt;(※除&lt;/code&gt;README.md&lt;code&gt;)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;8.下載課程影片。
+&lt;code&gt;(※搜尋：192.168.1.35:8000)&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;操作步驟： cmd → python -m http.server&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;(1)安裝 leo - editor 。
-(2)修改內部資料。*( 如：launchLeo.py)*
-(3)完成w1進度。*(※w1進度：創建`個人`倉儲)*
-(4)新增`個人`倉儲內容。*(※如：網頁、投影片...等)*
+(2)修改內部資料。( 如：launchLeo.py )
+(3)完成w1進度。( ※w1進度：創建`個人`倉儲 )
+(4)新增`個人`倉儲內容。( ※如：網頁、投影片...等 )
 (5)下載課程影片。
 &lt;/pre&gt;&lt;/div&gt;
 
@@ -359,11 +376,14 @@ W3 - 3： https://player.vimeo.com/video/141026116&lt;/p&gt;</summary><category 
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
 &lt;p&gt;2.本週課程內容網址： http://wordpress-2015course.rhcloud.com/?p=3641&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;W2 - 1：https://player.vimeo.com/video/139886319 
-W2 - 2：https://player.vimeo.com/video/139890840 
-W2 - 3：https://player.vimeo.com/video/139892322 
-W2 - 4：https://player.vimeo.com/video/139893872
-&lt;/pre&gt;&lt;/div&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業一</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_hw_w1 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第一週內容&lt;/p&gt;
+&lt;p&gt;W2 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/139886319" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/139890840" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/139892322" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt; &lt;/p&gt;
+&lt;p&gt;W2 - 4：
+ &lt;iframe src="https://player.vimeo.com/video/139893872" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;</summary><category term="pelican"></category><category term="publishing"></category></entry><entry><title>2015 電腦輔助設計與實習 作業一</title><link href="http://40323107.github.io/2015fallcadpa/2015cp_hw_w1%20-%20%2040323107.html" rel="alternate"></link><updated>2015-09-17T13:30:00+08:00</updated><author><name>40323107</name></author><id>tag:40323107.github.io,2015-09-17:2015fallcadpa/2015cp_hw_w1 -  40323107.html</id><summary type="html">&lt;p&gt;以下為第一週內容&lt;/p&gt;
 &lt;p&gt;利用 iframe 嵌入投影片:&lt;/p&gt;
 &lt;iframe src="simplest1.html" width="500" height="300"&gt;&lt;/iframe&gt;
 
@@ -371,17 +391,17 @@ W2 - 4：https://player.vimeo.com/video/139893872
 &lt;h1&gt;w1&lt;/h1&gt;
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
 &lt;p&gt;1.下載“ Ana3_2015 ”檔案，並簡略說明。
-&lt;em&gt;(路徑： 學校電腦 → C槽 → Ana3_2015檔 )&lt;/em&gt;&lt;/p&gt;
+&lt;code&gt;( ※路徑： 學校電腦 → C槽 → Ana3_2015檔  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;2.登入課程網址，並閱讀課程相關文章。
-  &lt;em&gt;(課程網址：http://wordpress-2015course.rhcloud.com/ )&lt;/em&gt;&lt;/p&gt;
+&lt;code&gt;( ※課程網址：http://wordpress-2015course.rhcloud.com/  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;3.說明課程內容及任務。
-  &lt;em&gt;( 針對〝 2015Fall CADPA 第1週 〞文章。)&lt;/em&gt;
-  &lt;em&gt;( 網址：http://wordpress-2015course.rhcloud.com/?p=3637 )&lt;/em&gt;&lt;/p&gt;
+&lt;code&gt;( ※針對〝 2015Fall CADPA 第1週 〞文章。)&lt;/code&gt;
+&lt;code&gt;( ※網址：http://wordpress-2015course.rhcloud.com/?p=3637  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;4.點選文章中的 reveal.js 倉儲。
-  &lt;em&gt;( 倉儲網址：https://github.com/coursemdetw/reveal)&lt;/em&gt;
-  &lt;em&gt;( 對應的 github pages：demo，cadpaw1.html )&lt;/em&gt;&lt;/p&gt;
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/reveal )&lt;/code&gt;
+&lt;code&gt;( ※對應的 github pages：demo，cadpaw1.html  )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;5.嘗試在近端與遠端上輸出字串 。
-  &lt;em&gt;( 例： print("hello")  )&lt;/em&gt;&lt;/p&gt;
+&lt;code&gt;( ※例： print("hello")  )&lt;/code&gt;&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;方法一：
     於近端桌面開啟 &amp;quot;start&amp;quot; ，跳出 jupyter 網頁，輸入密碼(2015cp)進行登入，操作 (輸入 print(&amp;quot;hello&amp;quot;)，輸出 hello)。
      (※操作：jupyter → new → python 3 → print(&amp;quot;hello&amp;quot;) → cell → run → hello 。 )
@@ -398,28 +418,25 @@ W2 - 4：https://player.vimeo.com/video/139893872
 &lt;p&gt;6.建立個人 Github 課程倉儲 ，並命名為 2015cadp。&lt;/p&gt;
 &lt;p&gt;7.學習如何於近端 &lt;code&gt;cmd&lt;/code&gt; 創建 &lt;code&gt;Github&lt;/code&gt; 的分支 &lt;code&gt;gh-pages&lt;/code&gt;，再推送至遠端 &lt;code&gt;Github&lt;/code&gt; 。&lt;/p&gt;
 &lt;p&gt;8.於〝Google〞輸入 "192.168.1.35:8000 "，下載資料。
-  &lt;em&gt;( ※操作：cmd → python -m http.server)&lt;/em&gt;
-  &lt;em&gt;( ※資料：課程教學影片。 )&lt;/em&gt;&lt;/p&gt;
-&lt;h2&gt;(二) 任務內容與成果： &lt;em&gt;(※作業 )&lt;/em&gt;&lt;/h2&gt;
+&lt;code&gt;( ※操作：cmd → python -m http.server)&lt;/code&gt;
+&lt;code&gt;( ※資料：課程教學影片。 )&lt;/code&gt;&lt;/p&gt;
+&lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;(作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;輸出字串。(※字串為 Hello ) 
-建立個人 Github 課程倉儲 。(※名稱為 2015cadp )
-使用 Git 在近端建立分支，並推送至遠端。(※運用 git branch )
-使用 SciTE 新增網頁，並利用 git 推送至 Github。(※網頁：index.html )
+&lt;div class="highlight"&gt;&lt;pre&gt;(1)輸出字串。( ※字串為 Hello ) 
+(2)建立個人 Github 課程倉儲 。( ※名稱為 2015cadp )
+(3)使用 Git 在近端建立分支，並推送至遠端。( ※運用 git branch )
+(4)使用 SciTE 新增網頁，並利用 git 推送至 Github。( ※網頁：index.html )
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;p&gt;2.成果：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;(1)Github個人倉儲網址：https://github.com/40323107/2015fallcadpa/tree/gh-pages
-
-(2)測試網頁網址：https://www.google.com.tw
-
-(3)自製教學影片：
-
-    w1-1 → 如何輸出字串
-    w1-2 → 如何創建倉儲
-    w1-3 → 如何新建分支
-    w1-4 → 如何新建網頁
+&lt;p&gt;(1)Github個人倉儲網址：https://github.com/40323107/2015fallcadpa/tree/gh-pages&lt;/p&gt;
+&lt;p&gt;(2)測試網頁網址：https://www.google.com.tw&lt;/p&gt;
+&lt;p&gt;(3)自製教學影片：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;w1-1 → 如何輸出字串
+w1-2 → 如何創建倉儲
+w1-3 → 如何新建分支
+w1-4 → 如何新建網頁
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -472,18 +489,18 @@ W2 - 4：https://player.vimeo.com/video/139893872
 
 
 &lt;p&gt;2.操作流程簡敘：
-&lt;strong&gt;(※創建網頁流程。)&lt;/strong&gt;&lt;/p&gt;
+&lt;code&gt;( ※創建網頁流程。 )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;start → cmd → 使用者認證 → 下載倉儲 → 進入倉儲 → 檢查、建立、切換分支 → dir → SciTE - index.html → 暫存 → 提交 → 推送至分支 → 完成。   &lt;/p&gt;
 &lt;h2&gt;(五)其他資料：&lt;/h2&gt;
 &lt;p&gt;1.課程網址： http://wordpress-2015course.rhcloud.com/&lt;/p&gt;
 &lt;p&gt;2.本週課程內容網址： http://wordpress-2015course.rhcloud.com/?p=3637&lt;/p&gt;
 &lt;p&gt;3.課程教學影片網址：&lt;/p&gt;
-&lt;div class="highlight"&gt;&lt;pre&gt;W1 - 1：https://player.vimeo.com/video/140277094Vimeo
-W1 - 2：https://player.vimeo.com/video/140277188Vimeo 
-W1 - 3：https://player.vimeo.com/video/140281702Vimeo
-&lt;/pre&gt;&lt;/div&gt;
-
-
+&lt;p&gt;W1 - 1：
+ &lt;iframe src="https://player.vimeo.com/video/140277094" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 2：
+ &lt;iframe src="https://player.vimeo.com/video/140277188" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;W1 - 3：
+ &lt;iframe src="https://player.vimeo.com/video/140281702" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;  &lt;/p&gt;
 &lt;p&gt;4.Sci TE 的內容： &lt;a href="http://www.google.com"&gt;google&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;5.圖片連結測試：
 &lt;code&gt;操作方式：放入圖檔，可以直接利用 html 的 img 標註。&lt;/code&gt;&lt;/p&gt;
