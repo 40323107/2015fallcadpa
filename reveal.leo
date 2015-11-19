@@ -582,9 +582,9 @@
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
 </v>
-<v t="amd.20151021114454.1" a="E"><vh>@path user</vh>
+<v t="amd.20151021114454.1"><vh>@path user</vh>
 <v t="amd.20151021114529.1"><vh>各組員必須自行建立 以下節點</vh></v>
-<v t="amd.20151021114504.1"><vh>@path 40323107</vh>
+<v t="amd.20151021114504.1" a="E"><vh>@path 40323107</vh>
 <v t="amd.20151021114639.1"><vh>@edit 40323107_cp_w1_p.html</vh></v>
 <v t="amd.20151021114516.1" a="E"><vh>@path pelican</vh>
 <v t="amd.20151021114727.1"><vh>@edit publishconf.py</vh></v>
