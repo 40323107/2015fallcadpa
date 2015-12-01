@@ -616,10 +616,10 @@
 &lt;h2&gt;(一) 課程內容：&lt;/h2&gt;
 &lt;p&gt;1.說明課程內容及任務。
 &lt;code&gt;(※針對〝 2015Fall CADPA 第4週 〞文章 )&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;2.說明 Ipthon 與 Jupyter 的差異。&lt;/p&gt;
-&lt;p&gt;3.說明變頻的原理。
+&lt;p&gt;2.說明 &lt;code&gt;Ipthon&lt;/code&gt; 與 &lt;code&gt;Jupyter&lt;/code&gt; 的差異。&lt;/p&gt;
+&lt;p&gt;3.說明&lt;code&gt;變頻&lt;/code&gt;的原理。
 &lt;code&gt;(※冷氣)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;4.說明如何下載 solvespace 2.1版 ，並繪圖。&lt;/p&gt;
+&lt;p&gt;4.說明如何下載 &lt;code&gt;solvespace 2.1&lt;/code&gt;版 ，並繪圖。&lt;/p&gt;
 &lt;p&gt;5.利用 solvespace 繪圖。
 &lt;code&gt;(※學生)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;6.solvespace 繪圖教學。
@@ -675,16 +675,16 @@
 
 
 &lt;p&gt;&lt;code&gt;( ※ps：利用 方程式運算來解釋科學原理  )&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;3.下載 fix 與 reveal - gh-pages 檔案。&lt;/p&gt;
+&lt;p&gt;3.下載 &lt;code&gt;fix&lt;/code&gt; 與 &lt;code&gt;reveal - gh-pages&lt;/code&gt; 檔案。&lt;/p&gt;
 &lt;p&gt;4.說明如何&lt;code&gt;新增&lt;/code&gt;網頁與投影片。&lt;/p&gt;
 &lt;p&gt;5.說明如何&lt;code&gt;編輯&lt;/code&gt;個人投影片。
 &lt;code&gt;( ※投影片格式 )&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;6.說明 notebook.py 文章與如何修改。&lt;/p&gt;
-&lt;p&gt;7.,說明 solvespace 文章與基本操作。&lt;/p&gt;
+&lt;p&gt;6.說明 &lt;code&gt;notebook.py&lt;/code&gt; 文章與如何修改。&lt;/p&gt;
+&lt;p&gt;7.,說明 &lt;code&gt;solvespace&lt;/code&gt; 文章與基本操作。&lt;/p&gt;
 &lt;p&gt;8.下載 solvespace 軟體。&lt;/p&gt;
 &lt;p&gt;9.說明如何利用 git 指令刪除檔案。
 &lt;code&gt;( ※ 指令：git rm 檔名 )&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;10.下載課程教學影片。&lt;em&gt;(※搜尋：192.168.1.35:8000)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;10.下載課程教學影片。&lt;code&gt;( ※搜尋：192.168.1.35:8000 )&lt;/code&gt;&lt;/p&gt;
 &lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;(1)下載 fix 與 reveal-gh-pages 的檔案。
@@ -752,14 +752,14 @@ download：
 &lt;code&gt;( ※利用 Sci TE )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;5.創建新倉儲。
 &lt;code&gt;( ※為w1進度，完成者則免 )&lt;/code&gt;
-&lt;code&gt;( ※操作：Github → New Repository → Repository name：&lt;/code&gt;2015fallcadpa&lt;code&gt;→ 將&lt;/code&gt;Initialize this repository with a README&lt;code&gt;打勾 →  按&lt;/code&gt;Create Repository&lt;code&gt;→ 完成。)&lt;/code&gt;&lt;/p&gt;
+&lt;code&gt;( ※操作：Github → New Repository → Repository name：2015fallcadpa → 將 Initialize this repository with a README 打勾 →  按 Create Repository → 完成。)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;6.下載老師的&lt;code&gt;reveal.js&lt;/code&gt; 倉儲。
-&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/&lt;/code&gt;reveal&lt;code&gt;)&lt;/code&gt;&lt;/p&gt;
+&lt;code&gt;( ※倉儲網址：https://github.com/coursemdetw/reveal )&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;7.複製&lt;code&gt;reveal.js倉儲&lt;/code&gt;的&lt;code&gt;內容&lt;/code&gt;至&lt;code&gt;自己&lt;/code&gt;的倉儲。
-&lt;code&gt;(※除&lt;/code&gt;README.md&lt;code&gt;)&lt;/code&gt;&lt;/p&gt;
+&lt;code&gt;(※除README.md)&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;8.下載課程影片。
 &lt;code&gt;(※搜尋：192.168.1.35:8000)&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;操作步驟： cmd → python -m http.server&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;(※操作步驟： cmd → python -m http.server)&lt;/code&gt;&lt;/p&gt;
 &lt;h2&gt;(二) 任務內容與成果： &lt;code&gt;( ※作業 )&lt;/code&gt;&lt;/h2&gt;
 &lt;p&gt;1.內容：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre&gt;(1)安裝 leo - editor 。
