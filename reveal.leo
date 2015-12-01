@@ -35,6 +35,13 @@
 <v t="leo.20151115220926.1"><vh>@edit 2015cphww8.md</vh></v>
 <v t="leo.20151115220945.1"><vh>@edit 2015cphww9.md</vh></v>
 <v t="leo.20151119131311.1"><vh>@edit 2015cphww10.md</vh></v>
+<v t="leo.20151201231236.1"><vh>@edit 2015cphww11.md</vh></v>
+<v t="leo.20151201232631.1"><vh>@edit 2015cphww12.md</vh></v>
+<v t="leo.20151201233430.1"><vh>@edit 2015cphww13.md</vh></v>
+<v t="leo.20151201233442.1"><vh>@edit 2015cphww14.md</vh></v>
+<v t="leo.20151201233448.1"><vh>@edit 2015cphww15.md</vh></v>
+<v t="leo.20151201233454.1"><vh>@edit 2015cphww16.md</vh></v>
+<v t="leo.20151201233501.1"><vh>@edit 2015cphww17.md</vh></v>
 <v t="amd.20150920000911.1"><vh>@edit 2015cpnote1.md</vh></v>
 </v>
 </v>
@@ -460,6 +467,132 @@
 </v>
 </v>
 <v t="leo.20151119132034.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235152.1"><vh>@clean simplest11.html</vh>
+<v t="leo.20151201235152.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235152.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235152.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235152.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235152.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235152.7"><vh>首頁</vh></v>
+<v t="leo.20151201235152.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235152.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235152.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235152.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235152.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235152.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235202.1"><vh>@clean simplest12.html</vh>
+<v t="leo.20151201235202.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235202.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235202.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235202.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235202.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235202.7"><vh>首頁</vh></v>
+<v t="leo.20151201235202.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235202.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235202.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235202.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235202.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235202.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235211.1"><vh>@clean simplest13.html</vh>
+<v t="leo.20151201235211.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235211.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235211.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235211.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235211.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235211.7"><vh>首頁</vh></v>
+<v t="leo.20151201235211.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235211.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235211.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235211.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235211.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235211.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235217.1"><vh>@clean simplest14.html</vh>
+<v t="leo.20151201235217.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235217.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235217.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235217.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235217.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235217.7"><vh>首頁</vh></v>
+<v t="leo.20151201235217.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235217.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235217.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235217.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235217.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235217.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235224.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20151201235224.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235224.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235224.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235224.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235224.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235224.7"><vh>首頁</vh></v>
+<v t="leo.20151201235224.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235224.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235224.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235224.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235224.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235224.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235230.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20151201235230.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235230.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235230.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235230.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235230.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235230.7"><vh>首頁</vh></v>
+<v t="leo.20151201235230.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235230.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235230.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235230.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235230.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235230.13"><vh>script</vh></v>
+</v>
+</v>
+</v>
+<v t="leo.20151201235237.1"><vh>@clean simplest17.html</vh>
+<v t="leo.20151201235237.2"><vh>檔案說明</vh></v>
+<v t="leo.20151201235237.3" a="E"><vh>html 標註</vh>
+<v t="leo.20151201235237.4" a="E"><vh>body 標註</vh>
+<v t="leo.20151201235237.5" a="E"><vh>div class="reveal"</vh>
+<v t="leo.20151201235237.6" a="E"><vh>div class="slides"</vh>
+<v t="leo.20151201235237.7"><vh>首頁</vh></v>
+<v t="leo.20151201235237.8"><vh>自我介紹</vh></v>
+<v t="leo.20151201235237.9"><vh>課程內容</vh></v>
+<v t="leo.20151201235237.10"><vh>作業任務</vh></v>
+<v t="leo.20151201235237.11"><vh>作業成果</vh></v>
+<v t="leo.20151201235237.12"><vh>心得與自評</vh></v>
+</v>
+</v>
+<v t="leo.20151201235237.13"><vh>script</vh></v>
 </v>
 </v>
 </v>
@@ -3708,6 +3841,1063 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 </t>
 <t tx="leo.20151119132034.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235152.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235152.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十一&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=3678"&gt;w11&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/146592105"&gt;Vimeo - W11 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/146593944"&gt;Vimeo - W11 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235152.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235152.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235152.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235152.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235152.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235152.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235152.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235152.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235152.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十一週&lt;/p&gt;
+    &lt;p&gt;2015 / 11 / 26&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235152.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235152.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十一週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235202.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235202.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十二&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w12&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/147276192"&gt;Vimeo - W12 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147279887"&gt;Vimeo - W12 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235202.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235202.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235202.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235202.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235202.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235202.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235202.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235202.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235202.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十二週&lt;/p&gt;
+    &lt;p&gt;2015 / 12 / 03&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235202.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235202.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十二週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235211.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235211.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十三&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w13&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;Vimeo - W13 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=""&gt;Vimeo - W13 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235211.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235211.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235211.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235211.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235211.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235211.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235211.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235211.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235211.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十三週&lt;/p&gt;
+    &lt;p&gt;2015 / 12 / 10&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235211.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235211.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十三週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235217.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235217.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十四&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w14&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;Vimeo - W14 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=""&gt;Vimeo - W14 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235217.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235217.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235217.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235217.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235217.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235217.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235217.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235217.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235217.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十四週&lt;/p&gt;
+    &lt;p&gt;2015 / 12 / 17&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235217.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235217.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十四週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235224.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235224.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十五&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w15&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;Vimeo - W15 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=""&gt;Vimeo - W15 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235224.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235224.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235224.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235224.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235224.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235224.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235224.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235224.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235224.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十五週&lt;/p&gt;
+    &lt;p&gt;2015 / 12 / 24&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235224.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235224.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十五週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235230.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235230.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十六&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w16&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;Vimeo - W16 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=""&gt;Vimeo - W16 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235230.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235230.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235230.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235230.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235230.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235230.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235230.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235230.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235230.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十六週&lt;/p&gt;
+    &lt;p&gt;2015 / 12 / 31&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235230.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235230.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十六週筆記&lt;/h2&gt;
+    &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
+    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.&lt;/p&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235237.1">@language xml
+@tabwidth -4
+@others
+
+</t>
+<t tx="leo.20151201235237.10">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務十七&lt;/h2&gt;
+        &lt;p&gt;1.任務說明&lt;/p&gt;
+        &lt;p&gt;2.參考網址&lt;/p&gt;
+        &lt;p&gt;3.參考影片&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
+        &lt;p align="left"&gt;(1)&lt;/p&gt;
+        &lt;p align="left"&gt;(2)&lt;/p&gt;
+        &lt;p align="left"&gt;(3)&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考網址&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;w17&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;參考影片&lt;/h2&gt;
+        &lt;p&gt;請參考&lt;/p&gt;
+        &lt;p&gt; &lt;a href=""&gt;Vimeo - W17 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href=""&gt;Vimeo - W17 - 2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;
+
+
+</t>
+<t tx="leo.20151201235237.11">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;一&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;二&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自製影片&lt;/h2&gt;
+        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;2.&lt;/p&gt;
+        &lt;p&gt;3.&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		
+</t>
+<t tx="leo.20151201235237.12">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;結論&lt;/h2&gt;
+        &lt;p&gt;1.心得&lt;/p&gt;
+        &lt;p&gt;2.自評&lt;/p&gt;
+        &lt;p&gt;3.啟發&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;心得&lt;/h2&gt;
+        &lt;p&gt;整理中...&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;自評&lt;/h2&gt;
+        &lt;p&gt;60 分&lt;/p&gt;
+    &lt;/section&gt;    
+    &lt;section&gt;
+        &lt;h2&gt;啟發&lt;/h2&gt;
+        &lt;p&gt;等待中...&lt;/p&gt;         
+    &lt;/section&gt;
+&lt;/section&gt;			
+				
+</t>
+<t tx="leo.20151201235237.13">&lt;script src="lib/js/head.min.js"&gt;&lt;/script&gt;
+&lt;script src="js/reveal.min.js"&gt;&lt;/script&gt;
+&lt;script&gt;
+    // 啟動 Reveal.
+    Reveal.initialize({
+    });
+&lt;/script&gt;
+	
+</t>
+<t tx="leo.20151201235237.2">&lt;!--
+這個檔案展示了 reveal.js 投影片資料的基本架構
+其中使用 "reveal" class 與 "slides" class 來界定投影片的資料範圍
+而各投影片則以 &lt;section&gt;&lt;/section&gt; 標示
+且支援平行與垂直的投影片配置方法
+--&gt;
+</t>
+<t tx="leo.20151201235237.3">&lt;!doctype html&gt;
+&lt;html lang="en"&gt;
+&lt;head&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;title&gt;最簡單的 reveal 超文件&lt;/title&gt;
+&lt;link rel="stylesheet" href="css/reveal.min.css"&gt;
+	&lt;link rel="stylesheet" href="css/theme/default.css" id="theme"&gt;	
+	&lt;!--增加對於 IE 早期版本的支援 --&gt;
+	&lt;!--[if lt IE 9]&gt;
+	&lt;script src="lib/js/html5shiv.js"&gt;&lt;/script&gt;
+	&lt;![endif]--&gt;
+&lt;/head&gt;
+@others
+</t>
+<t tx="leo.20151201235237.4">&lt;body&gt;
+@others
+&lt;/body&gt;
+</t>
+<t tx="leo.20151201235237.5">&lt;!-- 將整個投影片包在 "reveal" class 中 --&gt;
+&lt;div class="reveal"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235237.6">&lt;!-- 將所有投影片包在 "slides" class 中 --&gt;
+&lt;div class="slides"&gt;
+@others
+&lt;/div&gt;
+</t>
+<t tx="leo.20151201235237.7">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;p&gt;第十七週&lt;/p&gt;
+    &lt;p&gt;2016 / 01 / 07&lt;/p&gt;		
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235237.8">&lt;!-- 以下為投影片 --&gt;
+&lt;!-- 每一個 section 都代表一張投影片,  --&gt;
+&lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
+&lt;section&gt;
+    &lt;h2&gt;四設計二甲&lt;/h2&gt;
+    &lt;p&gt;40323107&lt;/p&gt;
+    &lt;p&gt;廖佑珊&lt;/p&gt;			
+&lt;/section&gt;
+	
+</t>
+<t tx="leo.20151201235237.9">&lt;section id="hw-task-one"&gt;
+    &lt;h2 align="left"&gt;第十七週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
     &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
     &lt;p align="left"&gt;3.&lt;/p&gt;
