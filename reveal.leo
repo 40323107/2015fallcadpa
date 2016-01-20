@@ -380,7 +380,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232457.1"><vh>@clean simplest6.html</vh>
+<v t="leo.20151115232457.1" a="E"><vh>@clean simplest6.html</vh>
 <v t="leo.20151115232457.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232457.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232457.4" a="E"><vh>body 標註</vh>
@@ -452,7 +452,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151119132034.1"><vh>@clean simplest10.html</vh>
+<v t="leo.20151119132034.1" a="E"><vh>@clean simplest10.html</vh>
 <v t="leo.20151119132034.2"><vh>檔案說明</vh></v>
 <v t="leo.20151119132034.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151119132034.4" a="E"><vh>body 標註</vh>
@@ -3711,9 +3711,11 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)點名簽到。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)閱讀課程相關文章。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)自行下載檔案，並安裝leo。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)利用 Creo Parametric軟體 繪製 Nutcracker 機構。&lt;/p&gt;
+        &lt;p align="left"&gt;(5)各組協同完成 Nutcracker 機構。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
@@ -3733,23 +3735,26 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151119132034.11">&lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;p&gt;1.簽到證明。&lt;/p&gt;
+        &lt;p&gt;2.操作步驟。&lt;/p&gt;
+        &lt;p&gt;3.零件範例。&lt;/p&gt;
+        &lt;p&gt;4.任務分配。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;簽到證明&lt;/h2&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/NxT8qrUZ9SZF0J3q"width="550"height="450"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;操作步驟&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/blob/gh-pages/40323107/%E4%BF%AE%E6%AD%A3%20fix%EF%BC%8C%E5%AE%89%E8%A3%9D%20leo%E7%9A%84%E6%93%8D%E4%BD%9C%E6%AD%A5%E9%A9%9F.md"&gt;修正 fix，安裝 leo&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h2&gt;零件範例&lt;/h2&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/B4yE3LaSQtJnLeCI"width="550"height="450"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;任務分配&lt;/h2&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/IoptR4zkPhLK3XwB"width="550"height="450"&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -3762,15 +3767,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;由於期中考剛過，因此這週的任務並不困難，主要在說明期末報告的規格，如：分組報告、個人報告...等。還有解釋課程的意義為何、教導如何修改 fix 安裝 leo、分組任務為何...等。還有說明分組後組員必須互相協同利用 Creo Parametric軟體 來完成 Nutcracker 機構，並完成每週的團體報告。另外，特別強調&lt;How to be a star engineer&gt;這篇文章的重要性呢！閱讀完與聆聽完教授的概述後，感覺似懂非懂呢！總之，這週的任務並不困難，只是要理解的資訊很多，需要花點時間來整理思緒而已。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;90 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;不懂就要問、不會就要說、不知就要試&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -3823,7 +3828,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十週&lt;/p&gt;
     &lt;p&gt;2015 / 11 / 19&lt;/p&gt;		
 &lt;/section&gt;
@@ -3842,8 +3847,11 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151119132034.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.閱讀 `How to be a star engineer` 的文章。&lt;/p&gt;
+    &lt;p align="left"&gt;3.點名簽到。&lt;/p&gt;
+    &lt;p align="left"&gt;4.下載與安裝檔案。&lt;/p&gt;
+    &lt;p align="left"&gt;5.利用 `Creo Parametric軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
+    &lt;p align="left"&gt;6.觀看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -3974,7 +3982,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十一週&lt;/p&gt;
     &lt;p&gt;2015 / 11 / 26&lt;/p&gt;		
 &lt;/section&gt;
