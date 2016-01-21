@@ -542,7 +542,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151201235224.1" a="E"><vh>@clean simplest15.html</vh>
+<v t="leo.20151201235224.1"><vh>@clean simplest15.html</vh>
 <v t="leo.20151201235224.2"><vh>檔案說明</vh></v>
 <v t="leo.20151201235224.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151201235224.4" a="E"><vh>body 標註</vh>
@@ -560,7 +560,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151201235230.1" a="E"><vh>@clean simplest16.html</vh>
+<v t="leo.20151201235230.1"><vh>@clean simplest16.html</vh>
 <v t="leo.20151201235230.2"><vh>檔案說明</vh></v>
 <v t="leo.20151201235230.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151201235230.4" a="E"><vh>body 標註</vh>
@@ -578,7 +578,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151201235237.1"><vh>@clean simplest17.html</vh>
+<v t="leo.20151201235237.1" a="E"><vh>@clean simplest17.html</vh>
 <v t="leo.20151201235237.2"><vh>檔案說明</vh></v>
 <v t="leo.20151201235237.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151201235237.4" a="E"><vh>body 標註</vh>
@@ -3734,7 +3734,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 </t>
 <t tx="leo.20151119132034.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
         &lt;p&gt;1.簽到證明。&lt;/p&gt;
         &lt;p&gt;2.操作步驟。&lt;/p&gt;
         &lt;p&gt;3.零件範例。&lt;/p&gt;
@@ -4908,47 +4908,58 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)自我評分。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)閱讀課程相關文章。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)計算 Nutcracker 機構 的有效運動距離。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w17&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4610"&gt;w17&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;Vimeo - W17 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href=""&gt;Vimeo - W17 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/150985277"&gt;Vimeo - W17 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/150636968"&gt;Vimeo - W17 - 2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
-
 
 </t>
 <t tx="leo.20151201235237.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.相關圖片。&lt;/p&gt;
+        &lt;p&gt;2.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;相關圖片&lt;/h2&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/SlU4fBfIT9IhbAyl"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/OFpgK043fiogZjSW"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/rHrxpJW0jsiQBKQv"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;        
+        &lt;p&gt;&lt;img src="https://copy.com/u4ZnKqfUoWbvFoJo"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w17_1.html"&gt;G2 - W17  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
+
+
+
+
+
+
 </t>
 <t tx="leo.20151201235237.12">&lt;section&gt;
     &lt;section&gt;
@@ -4959,15 +4970,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;本週的主要任務是各週資料統整還有期末自評唷！ 一轉眼，學期末就到啦！感覺一切好不真實，回想前幾週的點滴，總覺得像過眼雲煙那般，看似忙碌又好像不忙碌，好像有種反複做著相同動作的錯覺呢！回想這幾週所學習到的知識，很多，一下子腦袋瓜有點負荷不了，但還是有喘息的空間啦！總之，若要我做個各週資料統整的話，感覺非難非易，因為人的記憶是有限的，有時它會自動過濾並刪除一些資訊，所以才需要科技的幫忙呢！也就是說，透過筆記、詢問、影片觀賞...等，真的能幫助我找回失落的記憶呢！還有，透過這次的體驗，從中我也領悟到很多道理呢！好比說：獨樂樂不如眾樂樂還有別把事情想得太複雜，其實它的道理很簡單的，也就是說：我們不能將事情由簡化難，而是要做到化難為簡，這個道理看似很簡單，做起來卻很難呢！另外，關於分組協同的部分，有很多地方還要再磨練磨練才行，雖然想做好，但要設想的層面太廣了，不過這真的是一個很難得的經驗，總之，在這門課程裡我真的學到很多，很難用言語來形容的感覺，所以也只能說：獲益良多。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;知識是源源不絕的&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -5039,9 +5050,13 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235237.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十七週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.自我評分。&lt;/p&gt;
+    &lt;p align="left"&gt;3.利用 `Onshape軟體`繪製零件。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明如何計算`Nutcracker 機構`的有效運動距離。&lt;/p&gt;
+    &lt;p align="left"&gt;5.說明評分時程規劃。&lt;/p&gt;
+    &lt;p align="left"&gt;6.看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
+
 
 
 </t>
