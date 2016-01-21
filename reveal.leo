@@ -380,7 +380,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151115232457.1" a="E"><vh>@clean simplest6.html</vh>
+<v t="leo.20151115232457.1"><vh>@clean simplest6.html</vh>
 <v t="leo.20151115232457.2"><vh>檔案說明</vh></v>
 <v t="leo.20151115232457.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151115232457.4" a="E"><vh>body 標註</vh>
@@ -452,7 +452,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151119132034.1" a="E"><vh>@clean simplest10.html</vh>
+<v t="leo.20151119132034.1"><vh>@clean simplest10.html</vh>
 <v t="leo.20151119132034.2"><vh>檔案說明</vh></v>
 <v t="leo.20151119132034.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151119132034.4" a="E"><vh>body 標註</vh>
@@ -542,7 +542,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151201235224.1"><vh>@clean simplest15.html</vh>
+<v t="leo.20151201235224.1" a="E"><vh>@clean simplest15.html</vh>
 <v t="leo.20151201235224.2"><vh>檔案說明</vh></v>
 <v t="leo.20151201235224.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151201235224.4" a="E"><vh>body 標註</vh>
@@ -560,7 +560,7 @@
 </v>
 </v>
 </v>
-<v t="leo.20151201235230.1"><vh>@clean simplest16.html</vh>
+<v t="leo.20151201235230.1" a="E"><vh>@clean simplest16.html</vh>
 <v t="leo.20151201235230.2"><vh>檔案說明</vh></v>
 <v t="leo.20151201235230.3" a="E"><vh>html 標註</vh>
 <v t="leo.20151201235230.4" a="E"><vh>body 標註</vh>
@@ -710,7 +710,7 @@
 </v>
 </v>
 </v>
-<v t="amd.20151021113722.1" a="E"><vh>@path plugin</vh>
+<v t="amd.20151021113722.1"><vh>@path plugin</vh>
 <v t="amd.20151021113731.1" a="E"><vh>@path liquid_tags</vh>
 <v t="amd.20151021113745.1"><vh>@edit notebook.py</vh></v>
 </v>
@@ -3870,9 +3870,10 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)閱讀課程內容相關資訊。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)自行下載 fix檔案，並安裝 leo。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)創建組別的 leo。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)利用`Creo Parametric軟體`繪製零件。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
@@ -3882,33 +3883,65 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/146592105"&gt;Vimeo - W11 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/146592105"&gt;Vimeo - W11 - 1&lt;/a&gt;&lt;/p&gt;
         &lt;p&gt;&lt;a href="https://player.vimeo.com/video/146593944"&gt;Vimeo - W11 - 2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
 
-</t>
+    
+    
+    </t>
 <t tx="leo.20151201235152.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.零件5繪製。&lt;/p&gt;
+        &lt;p&gt;2.零件6繪製。&lt;/p&gt;
+        &lt;p&gt;3.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;零件5繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/p9WOhTy1qDsEMrlm"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CYLINDER_5-5.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152468947"&gt;CYLINDER-5&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;零件6繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
+    &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/iOMWxA7C7jzBOs0O"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HANDLE_6-6.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152470110"&gt;HANDLE-6&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w11_1.html"&gt;G2 - W11  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;G2 - Github&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;G2 - Github - 40323107&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;		
 </t>
@@ -3921,15 +3954,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;&gt;這週的課程內容是沿用上週所教導的知識，然後再提升點困難度。內容則是在描述新版的投影片格式及運用對照法將A、B兩班的倉儲做比較與說明。關於上述的部分，我還不太能理解，所以我得花時間來研究研究才行。另外，若是按照教授的步驟進行的話，大致上進度還算尚可，卻會產生一些疑問呢！比如：創建組別的專屬 leo 時，就碰到一些障礙，最後還被我誤打誤撞弄成功的，感覺超不可思議的！但還是要利用時間自己摸索或請教其他人才行，不然問題一直擱在心裡也挺難受的，還是早點處理得好。還有，利用 Creo Parametric軟體 繪製零件的挑戰性滿高的，這個障礙也得克服才行。總之，這週的任務我是處於似懂非懂的狀態呢！但對於可以吸收到更多的知識，我還是很開心的，只是要做到學以致用可能需要很久吧！反正，先學習就是了。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;凡事都是一體兩面呢！&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4001,8 +4034,10 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235152.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十一週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.修改 fix.bat，安裝 leo。&lt;/p&gt;
+    &lt;p align="left"&gt;3.修改 start.bat ，指定 Jupyter 的啟動目錄為 tmp。&lt;/p&gt;
+    &lt;p align="left"&gt;4.創建組別的 leo。&lt;/p&gt;
+    &lt;p align="left"&gt;5.利用 `Creo Parametric軟體` 繪製`Nutcracker 機構`零件。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -4021,48 +4056,83 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)安裝 leo。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)閱讀課程內容相關資訊。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)指定 Jupyter 的啟動目錄為 tmp。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)利用`Creo Parametric軟體`繪製零件。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w12&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;w12&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/147276192"&gt;Vimeo - W12 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147279887"&gt;Vimeo - W12 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147709308"&gt;Vimeo - W12 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147712937"&gt;Vimeo - W12 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147276192"&gt;Vimeo - W12 - 3&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/147279887"&gt;Vimeo - W12 - 4&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
-
+    
+    
+    
+    
 </t>
 <t tx="leo.20151201235202.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.零件7繪製。&lt;/p&gt;
+        &lt;p&gt;2.零件8繪製。&lt;/p&gt;
+        &lt;p&gt;3.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;零件7繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/HINGE_7-7.stl"&gt;&lt;/script&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;		
-</t>
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152470821"&gt;HINGE-7&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;零件8繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
+    &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/PISTON_8-8.stl"&gt;&lt;/script&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152471254"&gt;PISTON-8&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w12_1.html"&gt;G2 - W12  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;G2 - Github&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;G2 - Github - 40323107&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;		</t>
 <t tx="leo.20151201235202.12">&lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;結論&lt;/h2&gt;
@@ -4072,15 +4142,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;&gt; 這一週的課程內容跟上週的內容和任務差不多喔！所以，如果上週進度沒完成的話，就有可能影響到這週的進度。但也不用太擔心啦！還有範例可以參考嘛~~~不然也可以請教會做的人呀！說到這週的任務嘛！一方面是補齊前幾次的作業；一方面則是各組組員互相協調利用 Creo Parametric軟體 來完成 Nutcracker 機構，並繳交團體報告和整理個人作業。反正目前就是運用新的繪圖軟體來完成作業就是了，不過，你也可以嘗試使用之前所學習的繪圖軟體來繪圖啦！我覺得多方面嘗試是很好的行為唷！總之，接下來的進度就是繪製&lt;Nutcracker 機構&gt;的零件與組裝以及各組分工合作完成各週報告。最後，進度層面我還跟得上，而且，如果我有不懂的地方我也會請教同學或教授，所以我才跟得上教學進度。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;分工合作的重要性&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4133,7 +4203,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十二週&lt;/p&gt;
     &lt;p&gt;2015 / 12 / 03&lt;/p&gt;		
 &lt;/section&gt;
@@ -4152,8 +4222,10 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235202.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十二週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.下載檔案並安裝。&lt;/p&gt;
+    &lt;p align="left"&gt;3.利用 `Creo Parametric軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
+    &lt;p align="left"&gt;4.接續上週的課程內容。&lt;/p&gt;
+    &lt;p align="left"&gt;5.觀看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -4172,48 +4244,60 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)修改 fix ，安裝 leo。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)閱讀課程內容相關資訊。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)利用 Creo Parametric軟體 繪製零件。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w13&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;w13&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;Vimeo - W13 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href=""&gt;Vimeo - W13 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/148455580"&gt;Vimeo - W13 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/148458668"&gt;Vimeo - W13 - 2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
-
+    
+   
+    
 </t>
 <t tx="leo.20151201235211.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.機構組裝。&lt;/p&gt;
+        &lt;p&gt;2.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;機構組裝&lt;/h2&gt;
+        &lt;p&gt;(1)機構 3D 等角圖。`(open)`&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)機構組裝影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h3&gt;機構 3D 等角圖`(open)`&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/9fAEhMfx7r2uVvoV"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;機構 3D 等角圖`(close)`&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/KnEwjVgL8wq8MZXa"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;		
-</t>
+    &lt;section&gt;
+        &lt;h3&gt;機構組裝影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152475136"&gt;Nutcracker 機構&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w13_1.html"&gt;G2 - W13  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;G2 - Github&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;G2 - Github - 40323107&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;	</t>
 <t tx="leo.20151201235211.12">&lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;結論&lt;/h2&gt;
@@ -4223,15 +4307,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;這週任務為利用 Creo Parametric軟體 來完成 Nutcracker 機構，並統整出團體報告的資料。你是否有注意到呢？！其實這只是之前進度的延伸而已，已經持續好幾週囉！然而， Creo Parametric軟體 操作方面對於我來說還是覺得有難度，動作都不流暢，好難操作喔！有想放棄的念頭，但事情總是愛跟你唱反調，比如：當你以為快撐不住時，它偏偏就是撐住了，那你還能說什麼呢！總之，我會努力學習的，使我能在操作動作上更流暢，說真的，當你好不容易完成一個零件後，還是會感到很有成就感的。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;凡事都要努力去嘗試&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4284,7 +4368,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十三週&lt;/p&gt;
     &lt;p&gt;2015 / 12 / 10&lt;/p&gt;		
 &lt;/section&gt;
@@ -4303,10 +4387,10 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235211.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十三週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.下載檔案並安裝。&lt;/p&gt;
+    &lt;p align="left"&gt;3.利用 `Creo Parametric軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
+    &lt;p align="left"&gt;4.觀看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
-
 
 </t>
 <t tx="leo.20151201235217.1">@language xml
@@ -4323,48 +4407,75 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)閱讀課程內容相關資訊。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)利用 Creo Parametric軟體 繪製零件。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w14&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4474"&gt;w14&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4514"&gt;雲端電腦輔助設計繪圖軟體&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;Vimeo - W14 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href=""&gt;Vimeo - W14 - 2&lt;/a&gt;&lt;/p&gt;
-    &lt;/section&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/148825230"&gt;Vimeo - W14 - 1&lt;/a&gt;&lt;/p&gt;
+     &lt;/section&gt;
 &lt;/section&gt;
 
-
+    
 </t>
 <t tx="leo.20151201235217.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.零件1繪製。&lt;/p&gt;
+        &lt;p&gt;2.零件2繪製。&lt;/p&gt;
+        &lt;p&gt;3.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;零件1繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/llnwCkBtFl7at2jq"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_BASE_1-1.stl"&gt;&lt;/script&gt;&lt;/script&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;		
-</t>
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152472555"&gt;ADJUSTER_BASE-1&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;零件2繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
+    &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/dOdpF0u7AEvTSPcs"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/ADJUSTER_2-2.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152472929"&gt;ADJUSTER-2&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w14_1.html"&gt;G2 - W14  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;G2 - Github - 40323107&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;	</t>
 <t tx="leo.20151201235217.12">&lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;結論&lt;/h2&gt;
@@ -4374,15 +4485,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;這週任務一樣是接續上週的進度，內容：各組組員互相協調後，利用 Creo Parametric軟體 來完成 Nutcracker 機構，並彙整資料，完成團體報告及個人作業。經過幾週的摸索後，對於 Creo Parametric軟體 我已經有點熟悉了，操作動作的順暢度也有提升呢！感覺變得比較有趣的說，真奇妙！之前或許是我跟它不熟識的關係，算啦！有趣就行了。後來我領悟到，其實只要你多接觸它、認識它，你就可以從中學到很多，也可以發現它的好處唷！總之，一切還可以，最後我只能說：付出的努力總算是有價值的啦！&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;凡事都要持之以恆&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4435,7 +4546,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十四週&lt;/p&gt;
     &lt;p&gt;2015 / 12 / 17&lt;/p&gt;		
 &lt;/section&gt;
@@ -4454,8 +4565,9 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235217.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十四週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.修改`fix檔`與安裝`leo檔`。&lt;/p&gt;
+    &lt;p align="left"&gt;3.利用 `Creo Parametric軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
+    &lt;p align="left"&gt;4.觀看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -4474,48 +4586,85 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)閱讀課程內容相關資訊。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)利用 Creo Parametric軟體 繪製零件。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)於 Onshape軟體 網址創建帳號。&lt;/p&gt;
+        &lt;p align="left"&gt;(4)閱讀與熟悉 Onshape軟體 的操作及功能。&lt;/p&gt;
+        &lt;p align="left"&gt; (5)利用 `Onshape軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w15&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4532"&gt;w15&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4549"&gt;Onshape in Action&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;Vimeo - W15 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href=""&gt;Vimeo - W15 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/149940498"&gt;Vimeo - W15 - 1&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
 
-</t>
+    
+
+    
+   
+   </t>
 <t tx="leo.20151201235224.11">&lt;section&gt;
     &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.零件3繪製。&lt;/p&gt;
+        &lt;p&gt;2.零件4繪製。&lt;/p&gt;
+        &lt;p&gt;3.相關網址。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h2&gt;零件3繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/WQnQJCqFmruB8sEx"width="450"height="350"&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/BASE_3-3.stl"&gt;&lt;/script&gt;&lt;/script&gt;&lt;/p&gt;
     &lt;/section&gt;
-&lt;/section&gt;		
-</t>
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152475922"&gt;BASE-3&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;零件4繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件 3D 圖。&lt;/p&gt;
+        &lt;p&gt;(3)零件繪製影片。&lt;/p&gt;
+    &lt;/section&gt;
+        &lt;section&gt;
+        &lt;h3&gt;零件 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/8NLB6nuKXE128ITp"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件 3D 圖&lt;/h3&gt;
+        &lt;p&gt;&lt;script src="https://embed.github.com/view/3d/40323107/2015cadpa_g2/gh-pages/40323107/CONNECTION_4-4.stl"&gt;&lt;/script&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件繪製影片&lt;/h3&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/152476284"&gt;CONNECTION-4&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w15_1.html"&gt;G2 - W15  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages"&gt;G2 - Github&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://github.com/40323107/2015cadpa_g2/tree/gh-pages/40323107"&gt;G2 - Github - 40323107&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;40323107 - Onshape軟體&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;a_g2_nutcracker&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;	</t>
 <t tx="leo.20151201235224.12">&lt;section&gt;
     &lt;section&gt;
         &lt;h2&gt;結論&lt;/h2&gt;
@@ -4525,15 +4674,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;從這週開始運用新的軟體來繪製 Nutcracker 機構 囉！課程進度會跟上，不過我們組還是會執行自己安排的進度啦！反正就是有辦法兩者兼顧。另外，因為學習到新的知識(軟體)，讓人有種躍躍欲試的情緒呢！因此，廢話不多說、打鐵要趁熱，試吧！然而嘗試後，我覺得比 Creo Parametric軟體 還容易操作，感覺跟 Solid work 軟體 的操作方式很相似，但兩者間還是有差異姓啦！但說真的，簡單很多、容易上手，不過還是有困難的地方，例如：協同的部分讓人想到就頭昏腦脹的，難以理解，幸虧有高手幫忙才得以解脫，不過自己還是得慢慢去理解才行，因為人不能一昧的等待別人來告訴自己答案，而是必須自己去尋求答案，這麼一來學到的才會真的屬於你。總之，從這次的經驗裡，我領悟到很多道理也感覺獲益良多！ &lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;從學習中獲得經驗&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4586,7 +4735,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十五週&lt;/p&gt;
     &lt;p&gt;2015 / 12 / 24&lt;/p&gt;		
 &lt;/section&gt;
@@ -4605,8 +4754,10 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235224.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十五週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.利用 `Creo Parametric軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
+    &lt;p align="left"&gt;3.於`Onshape軟體`網址創建帳號。&lt;/p&gt;
+    &lt;p align="left"&gt;4.說明`Onshape軟體`的操作及功能。&lt;/p&gt;
+    &lt;p align="left"&gt;5.利用 `Onshape軟體` 繪製 `Nutcracker 機構`。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -4737,7 +4888,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十六週&lt;/p&gt;
     &lt;p&gt;2015 / 12 / 31&lt;/p&gt;		
 &lt;/section&gt;
@@ -4888,7 +5039,7 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 &lt;!-- 每一個 section 都代表一張投影片,  --&gt;
 &lt;!-- section 標註中的多 section 標註, 將往下垂直延伸 --&gt;
 &lt;section&gt;
-    &lt;h2&gt;我的作業&lt;/h2&gt;
+    &lt;h2&gt;我的報告&lt;/h2&gt;
     &lt;p&gt;第十七週&lt;/p&gt;
     &lt;p&gt;2016 / 01 / 07&lt;/p&gt;		
 &lt;/section&gt;
