@@ -570,7 +570,7 @@
 <v t="leo.20151201235230.8"><vh>自我介紹</vh></v>
 <v t="leo.20151201235230.9"><vh>課程內容</vh></v>
 <v t="leo.20151201235230.10"><vh>作業任務</vh></v>
-<v t="leo.20151201235230.11"><vh>作業成果</vh></v>
+<v t="leo.20160121164943.1"><vh>作業成果</vh></v>
 <v t="leo.20151201235230.12"><vh>心得與自評</vh></v>
 </v>
 </v>
@@ -4776,47 +4776,27 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2 align="left"&gt;任務說明&lt;/h2&gt;
-        &lt;p align="left"&gt;(1)&lt;/p&gt;
-        &lt;p align="left"&gt;(2)&lt;/p&gt;
-        &lt;p align="left"&gt;(3)&lt;/p&gt;
+        &lt;p align="left"&gt;(1)閱讀課程相關文章。&lt;/p&gt;
+        &lt;p align="left"&gt;(2)利用 `Onshape軟體 `繪製零件。&lt;/p&gt;
+        &lt;p align="left"&gt;(3)觀看課程教學影片。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考網址&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;w16&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="http://wordpress-2015course.rhcloud.com/?p=4584"&gt;w16&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;參考影片&lt;/h2&gt;
         &lt;p&gt;請參考&lt;/p&gt;
-        &lt;p&gt; &lt;a href=""&gt;Vimeo - W16 - 1&lt;/a&gt;&lt;/p&gt;
-        &lt;p&gt;&lt;a href=""&gt;Vimeo - W16 - 2&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt; &lt;a href="https://player.vimeo.com/video/150401255"&gt;Vimeo - W16 - 1&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://player.vimeo.com/video/150140635"&gt;Vimeo - W16 - 2&lt;/a&gt;&lt;/p&gt;
     &lt;/section&gt;
 &lt;/section&gt;
 
+    
 
-</t>
-<t tx="leo.20151201235230.11">&lt;section&gt;
-    &lt;section&gt;
-        &lt;h2&gt;任務成果&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h2&gt;一&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h2&gt;二&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-    &lt;/section&gt;
-    &lt;section&gt;
-        &lt;h2&gt;自製影片&lt;/h2&gt;
-        &lt;p&gt;1.&lt;/p&gt;
-        &lt;p&gt;2.&lt;/p&gt;
-        &lt;p&gt;3.&lt;/p&gt;
-    &lt;/section&gt;
-&lt;/section&gt;		
+    
+
 </t>
 <t tx="leo.20151201235230.12">&lt;section&gt;
     &lt;section&gt;
@@ -4827,15 +4807,15 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;心得&lt;/h2&gt;
-        &lt;p&gt;整理中...&lt;/p&gt;
+        &lt;p&gt;時間過得好快唷！轉瞬間就已經接近學期的尾聲了，顯然又到了最關鍵的時段啦！好多資料要統整的說。廢話不多說，馬上切入本週的主題吧！到了這時候你應該也有所發現，從W10 ~W16，我們好像都在處理同一件事情呢！只是偶而會增加一些難度，但也還好，不致於應付不來，總之，其實課程是一直堆疊上來的，所以每個環節都很重要呢！因此，到了這週，是在提醒我是該準備統整資料囉！不然就會來不及了，有點像趕快把燙手芋泥賣掉,，不然就要倒大楣了，又像是在諷刺說：平時不準備，事到臨頭才著急，可惜已經太晚啦！咎由自取。扯太遠了，這週的任務是尋找方法計算出 Nutcracker 機構 的有效運動距離，方法不限，總之，就是不管你運用何種方式，只要能求得答案行了。換句話說，雖然結果只有一個，但解決辦法確有很多種，只是看你想不想的到、用不用的到而已。&lt;/p&gt;
     &lt;/section&gt;
     &lt;section&gt;
         &lt;h2&gt;自評&lt;/h2&gt;
-        &lt;p&gt;60 分&lt;/p&gt;
+        &lt;p&gt;85 分&lt;/p&gt;
     &lt;/section&gt;    
     &lt;section&gt;
         &lt;h2&gt;啟發&lt;/h2&gt;
-        &lt;p&gt;等待中...&lt;/p&gt;         
+        &lt;p&gt;很多事物都有異曲同工之處&lt;/p&gt;         
     &lt;/section&gt;
 &lt;/section&gt;			
 				
@@ -4907,8 +4887,9 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 <t tx="leo.20151201235230.9">&lt;section id="hw-task-one"&gt;
     &lt;h2 align="left"&gt;第十六週筆記&lt;/h2&gt;
     &lt;p align="left"&gt;1.說明課程內容及任務。&lt;/p&gt;
-    &lt;p align="left"&gt;2.登入課程網址，閱讀課程相關文章。&lt;/p&gt;
-    &lt;p align="left"&gt;3.&lt;/p&gt;
+    &lt;p align="left"&gt;2.利用 `Onshape軟體`繪製零件。&lt;/p&gt;
+    &lt;p align="left"&gt;3.說明如何計算`Nutcracker 機構`的有效運動距離。&lt;/p&gt;
+    &lt;p align="left"&gt;4.觀看課程相關教學影片。&lt;/p&gt;
 &lt;/section&gt;
 
 
@@ -5064,5 +5045,146 @@ http://wordpress-2015course.rhcloud.com/?p=4334"&gt;期中報告&lt;/a&gt;&lt;/p
 
 
 </t>
+<t tx="leo.20160121164943.1">&lt;section&gt;
+    &lt;section&gt;
+        &lt;h1&gt;任務成果&lt;/h1&gt;
+        &lt;p&gt;1.零件繪製。&lt;/p&gt;
+        &lt;p&gt;2.零件組合。&lt;/p&gt;
+        &lt;p&gt;3.相關網址。&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;   
+&lt;section&gt;     
+    &lt;section&gt;
+        &lt;h2&gt;零件7繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件七  2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件七 繪製流程。&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件七 2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/BfjeElFXaQRe97gn"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件七 繪製流程。&lt;/h3&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(1)繪製草圖1：以`上視圖`(Top)做基準面，繪製一個`U型圖`，依據`2D草圖`所給予的尺寸來標註。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/Eo6gZnyaLQuYB0F7"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(2)伸長填料`(擠出1)`：以`上視圖`(Top)為基準，兩側對稱向`左右`伸長 0.75in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/YaTpf9ASUaWVIIsG"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(3)繪製草圖2：以`右視圖`(Right)向後，物體平行右視圖最遠的面`(面1)`做基準面，繪製一個`直徑 0.25 的圓`。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/pMhgXxhMseCRMZrZ"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(4)伸長除料`(擠出2)`：以`面1`做基底，向`前`完全貫穿物體除料。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/hcGFD1GRDTqHWvJw"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(5)繪製草圖3：以物體底座`(面2)`做基準面，繪製兩個`直徑 0.25 的圓`且互相對稱，圓心距離`上邊`為 0.25in、距離`兩側`各為 0.2in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/HqlLGZieIaqGxOut"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(6)伸長除料`(擠出3)`：以`面2`做基底，向`後`(右)刪除 0.5in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/JmsqOCm3nTUC6TPG"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(7)零件完成。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/Cq6b4PUpdRe8K6AL"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;   
+&lt;section&gt;      
+    &lt;section&gt;
+        &lt;h2&gt;零件8繪製&lt;/h2&gt;
+        &lt;p&gt;(1)零件八 2D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件八 繪製流程。&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件八  2D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/ngfUdrXkskTKIfZD"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件八 繪製流程&lt;/h3&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(1)繪製草圖1：以`前視圖`(Front)做基準面，繪製一個`直徑 0.995 的圓`。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/E0GYdrZlMDSJAFbv"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(2)伸長填料`(擠出1)`：以`前視圖`(Front)做基底，向`前`伸長 5in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/yA9JubVuMyHHh10V"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(3)繪製草圖2：以`物體向前伸長的那一面`(面1)`做基準面，繪製兩個矩形，並互相對稱，矩形靠近圓心的那一邊與圓心距離為 0.25in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/j2CqaBI3eHIuduqh"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(4)伸長除料`(擠出2)`：以`面1`做基底，向`後`刪除 1in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/ts1WVnZeSWzhFNvF"&gt;&lt;/img&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(5)繪製草圖3：以`除料後`的某一面`(面2)`做基準面，繪製一個`直徑 0.25 的圓`且圓心距離面1為 0.25in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/V9QN9EmJja7g9w1F"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(6)伸長除料`(擠出3)`：以`面2`做基底，向`前`(右)刪除 1in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/t6NQBHNaXvdaXeq1"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(7)繪製草圖4：以`右視圖`(Right)做基準面，繪製兩條線相互垂直及一個`直徑 1`的半圓，且垂直線距離原點(前視圖的中心點)為 0.25in。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/uGnpoGxTvRaRQQlG"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(8)旋轉除料`(擠出4)`：以`距離原點(前視圖的中心點)為 0.25in的垂直線`做軸心，`逆`時針旋轉除料。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/0xZhDobFLy1Uxj8H"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(9)零件完成。&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/vIAtGH8KgBWLljHv"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;   
+&lt;section&gt;      
+    &lt;section&gt;
+        &lt;h2&gt;零件組合&lt;/h2&gt;
+        &lt;p&gt;(1)零件 3D 草圖。&lt;/p&gt;
+        &lt;p&gt;(2)零件組裝圖。&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件 3D 草圖&lt;/h3&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/Aq9DM4uTOgW0tJOw"width="450"height="350"&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h3&gt;零件組裝圖&lt;/h3&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(1)a_g2_nutcracker - 40323107- Nutcracker 機構(close)&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/nUtDHndz6k8FKRF1"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+    &lt;section&gt;
+        &lt;h4&gt;(2)a_g2_nutcracker - 40323107- Nutcracker 機構(open)&lt;/h4&gt;
+        &lt;p&gt;&lt;img src="https://copy.com/2DfCCXbxYcawNHp1"&gt;&lt;/img&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;   
+&lt;section&gt;      
+    &lt;section&gt;
+        &lt;h2&gt;相關網址&lt;/h2&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/category/g2.html"&gt;G2 - Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="http://2015fallhw.github.io/2015fallcadpa/g2_w16_1.html"&gt;G2 - W16  Pages&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://www.copy.com/browse/a:dd7adaa;z:copy;b:myfiles"&gt;40323107 - Copy.com&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://cad.onshape.com/documents?filter=recently-opened&amp;column=modifiedAt&amp;order=desc"&gt;40323107 - Onshape軟體&lt;/a&gt;&lt;/p&gt;
+        &lt;p&gt;&lt;a href="https://cad.onshape.com/documents/a1bdeeceed6141ab8a7607c4/w/cedb5af79e38425d8f8ff16f/e/675b633752c8495cb011974a"&gt;a_g2_nutcracker&lt;/a&gt;&lt;/p&gt;
+    &lt;/section&gt;
+&lt;/section&gt;   
+    
+
+
+     
+
+       
+ 
+
+	</t>
 </tnodes>
 </leo_file>
